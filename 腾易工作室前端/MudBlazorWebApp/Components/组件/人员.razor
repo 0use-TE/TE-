@@ -1,0 +1,19 @@
+﻿<MudImage Src="@Path" Class="PersonImg"></MudImage>
+<MudText Typo="Typo.h5" Inline="true">@Name</MudText>
+<MudText Style="white-space: pre-line;">@Content</MudText>
+<style>
+	.PersonImg {
+	width:35px;
+	height:35px;
+	display:inline;
+	border-radius:5px
+	}
+</style>
+@code {
+	[Parameter]
+	public string Name { get; set; }
+	[Parameter]
+	public string Path{ get; set; }
+	[Parameter]
+	public string Content{ get; set; }
+}

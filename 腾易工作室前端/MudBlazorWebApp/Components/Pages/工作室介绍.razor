@@ -1,0 +1,21 @@
+﻿@page "/"
+@code {
+    List<string> PathList { get; set; } = new List<string>() { "Images/Home/teLogo.png", "Images/Home/落叶.jpg", "Images/Home/HomeVideo.mp4" };
+}
+
+<PageTitle>首页</PageTitle>
+
+<轮播图 PathList="@PathList" />
+
+<MudText Style="text-indent:2%;">
+    欢迎访问我们的网站！在这里，我们分享技术学习的点滴和创意开发的成果。
+    我们致力于探索编程的乐趣，关注技术的前沿，并希望与更多对编程感兴趣的朋友一同成长。
+    通过不断地学习和实践，我们希望为技术爱好者们提供交流与学习的平台，让更多人了解编程的魅力。
+    感谢您的关注和支持，期待与您一起探索技术与创意的无限可能！
+</MudText>
+
+<MudLink Href="https://beian.miit.gov.cn/" Style="position: fixed; bottom: 10px; right: 10px; font-size: 0.9em; color: gray;">
+    苏ICP备2024101692号-1
+</MudLink>
+
+

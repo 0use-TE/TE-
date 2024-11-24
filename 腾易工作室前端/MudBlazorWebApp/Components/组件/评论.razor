@@ -1,0 +1,12 @@
+﻿@using MudBlazorWebApp.Models
+@code{
+    [Parameter]
+    public Comment comment { get; set; }=new Comment();
+}
+
+<MudPaper Elevation="4" Class="px-4 my-4">
+    <MudText Typo="Typo.h6">@comment.Title</MudText>
+   <MudIcon Icon="@Icons.Material.Filled.Person" Color="Color.Primary"></MudIcon> <MudText Style="vertical-align:top" Inline="true">@comment.NickName</MudText>
+    <MudText>@comment.Content</MudText>
+    <MudText Align="Align.Right" >@comment.DateTime</MudText>
+</MudPaper>

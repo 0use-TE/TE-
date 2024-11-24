@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\onedrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\onedrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\onedrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\onedrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\onedrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\onedrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\onedrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDb.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
+              "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
+              "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:39:18.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
+              "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
+              "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:20:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
+              "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
+              "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:53:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
+              "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
+              "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:16:38.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
+              "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
+              "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:24:59.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:17:38.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
+              "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
+              "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T09:39:20.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

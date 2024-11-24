@@ -1,0 +1,16 @@
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.runtimeconfig.json
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.pdb
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\MySqlConnector.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\王硕云盘\OneDrive\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.deps.json

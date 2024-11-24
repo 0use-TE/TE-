@@ -1,0 +1,166 @@
+﻿@page "/games"
+@inject GameData Data
+@inject HttpClient HttpClient
+@inject IJSRuntime JS
+<PageTitle>游戏专栏</PageTitle>
+<MudList T="string">
+    <MudListItem Icon="@Icons.Material.Filled.Games" Text="选择游戏" Expanded>
+        <NestedList>
+            <MudListSubheader>
+                请选择查看的游戏
+            </MudListSubheader>
+            @foreach (var game in Games)
+            {
+                <MudListItem Text="@game.Name" OnClick="()=>{gameName=game.Name; 
+                              currentGame = Games.First(g => g.Name == gameName);}">
+                </MudListItem>
+            }
+        </NestedList>
+    </MudListItem>
+</MudList>
+
+<MudContainer Class="mt-4">
+    <MudGrid>
+        <!-- 轮播图区域 -->
+        <MudItem xs="12" md="7">
+            <MudPaper Class="pa-4" Width="100%" Height="300px">
+                <游戏轮播图 PathList="currentGame.PathList"/>
+            </MudPaper>
+        </MudItem>
+
+        <!-- 标签和其他信息 -->
+        <MudItem xs="12" md="5" >
+            <MudPaper Class="pa-4" Width="100%" Height="300px" Style="position: relative">
+                <MudIconButton Icon="@Icons.Material.Filled.GetApp" Size="Size.Large" Href="@currentGame.downloadLink"></MudIconButton>
+               <MudText Typo="Typo.h6">游戏名:@currentGame.Name</MudText>
+               <MudText Typo="Typo.subtitle2">开发商:@currentGame.Developers</MudText>
+                <MudText Typo="Typo.subtitle2">标签:@currentGame.Tag</MudText>
+                <MudText>简介:@currentGame.Brief</MudText>
+                <MudRating SelectedValue="4" ReadOnly Style="position:absolute;bottom:0;right:2%"/>
+            </MudPaper>
+        </MudItem>
+
+        <!-- 正文介绍 -->
+        <MudItem xs="12" md="12">
+            <MudPaper Class="pa-4" Width="100%" >
+                <MudText Style="white-space: pre-line;">@currentGame.Context</MudText>
+            </MudPaper>
+        </MudItem>
+
+ 
+
+        <!-- 评论区 -->
+        <MudItem xs="12">
+            <MudPaper Class="pa-4" Width="100%" Height="300px">
+                @foreach (var item in comments)
+                {
+                    <游戏评论 comment="@item" />
+                }
+            </MudPaper>
+        </MudItem>
+    </MudGrid>
+</MudContainer>
+
+
+@if (appear)
+{
+    <div class="fixed-bottom-comment">
+        <游戏发送评论 PostApiPath="http://106.54.7.121:25000/api/Comment/PostGameComment" GameName="@gameName"></游戏发送评论>
+    </div>
+}
+<MudIconButton Icon="@Icons.Material.Filled.Add" Size="Size.Large" Color="Color.Primary" Class="fixed-bottom-right" @onclick="ChangeCommentAddDisplayer"></MudIconButton>
+@code {
+    private bool appear;
+
+    private void ChangeCommentAddDisplayer()
+    {
+        appear = !appear;
+    }
+}
+@code {
+
+    private List<GamePageModel>? comments = new List<GamePageModel>();
+    private int currentPage = 1;
+    private const int PageSize = 10;
+    private bool isLoading = false;
+
+    protected async override Task OnInitializedAsync()
+    {
+        Games = Data.Games;
+        Random random = new Random();
+        // gameName = Games[random.Next(Games.Count)].Name;
+        gameName = Games[0].Name;
+        currentGame = Games.First(g => g.Name == gameName);
+
+        comments = await HttpClient.GetFromJsonAsync<List<GamePageModel>>("http://106.54.7.121:25000/api/Comment/RandomGetGameComment?counts=6&gameName=抓大鹅");
+        return;
+    }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            // 注册 JavaScript 事件监听器
+            var dotnetHelper = DotNetObjectReference.Create(this);
+            await JS.InvokeVoidAsync("initializeScrollEvent", dotnetHelper);
+        }
+
+    }
+
+    [JSInvokable]
+    public async Task OnScrollToBottom()
+    {
+        if (isLoading) return;
+
+        isLoading = true;
+
+        currentPage++;
+        var response = await HttpClient.GetFromJsonAsync<List<GamePageModel>>("http://106.54.7.121:25000/api/Comment/RandomGetGameComment?counts=6&gameName=抓大鹅");
+
+        if (response != null && response.Any())
+        {
+            comments.AddRange(response);
+            StateHasChanged(); // 确保 UI 更新
+        }
+        isLoading = false;
+
+    }
+}
+
+
+@code{
+    private List<Game>? Games { get; set; } 
+    public string? gameName;
+    public Game? currentGame;
+
+}
+
+
+
+<style>
+
+    /* 添加一个类来固定按钮 */
+    .fixed-bottom-right {
+        position: fixed; /* 使用 fixed 定位 */
+        bottom: 1vw; /* 距离视口底部 20px */
+        right: 5vw; /* 距离视口右侧 20px */
+        z-index: 1000; /* 提高 z-index 以确保按钮在其他内容之上 */
+    }
+
+    .fixed-bottom-comment {
+        position: fixed; /* 使用 fixed 定位 */
+        bottom: 1vw;
+        right: 15vw;
+        z-index: 1000;
+        width: 60vw;
+    }
+
+    @@media (max-width: 768px) {
+        .fixed-bottom-comment {
+            position: fixed;
+            bottom: 1vw;
+            left: 2vw;
+            width: 80vw;
+            z-index: 1000;
+        }
+    }
+</style>

@@ -1,0 +1,102 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MudBlazorWebApp
+build_property.RootNamespace = MudBlazorWebApp
+build_property.ProjectDir = C:\Users\22165\OneDrive\腾易工作室前端\MudBlazorWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\22165\OneDrive\腾易工作室前端\MudBlazorWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Pages/人员介绍.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zkurrlkZjku4vnu40ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Pages/在线游玩.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zlnKjnur/muLjnjqkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Pages/墨香心语.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zloqjpppnlv4Por60ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Pages/工作室介绍.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zlt6XkvZzlrqTku4vnu40ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Pages/游戏专栏.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zmuLjmiI/kuJPmoI8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Pages/致谢结语.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zoh7TosKLnu5Por60ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/人员.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5Lq65ZGYLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/发送评论.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5Y+R6YCB6K+E6K66LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiPLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏发送评论.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiP5Y+R6YCB6K+E6K66LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏评论.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiP6K+E6K66LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏轮播图.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiP6L2u5pKt5Zu+LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/评论.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc6K+E6K66LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/22165/OneDrive/腾易工作室前端/MudBlazorWebApp/Components/组件/轮播图.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc6L2u5pKt5Zu+LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 

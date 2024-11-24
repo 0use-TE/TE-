@@ -1,0 +1,20 @@
+﻿@using MudBlazorWebApp.Models
+@inject HttpClient HttpClient
+<MudPaper Elevation="4" Class="px-4">
+    <MudForm Model="@model" >
+        <MudTextField Label="请输入昵称:" T="string" @bind-Value=model.NickName></MudTextField>
+        <MudTextField Label="请输入标题:" T="string" @bind-Value=model.Title></MudTextField>
+        <MudTextField Label="请输入正文:" T="string" @bind-Value=model.Content Lines="4"></MudTextField>
+        <MudIconButton @onclick=Post Icon="@Icons.Material.Filled.Send"  Style="display:inline"></MudIconButton>
+    </MudForm>
+</MudPaper>
+@code {
+    [Parameter]
+    public string? PostApiPath { get; set; }
+    Comment model = new Comment();
+    private async Task Post()
+    {
+        model.DateTime = DateTime.Now;
+        HttpResponseMessage responseMessage = await HttpClient.PostAsJsonAsync<Comment>(PostApiPath, model);
+    }
+}

@@ -1,0 +1,24 @@
+﻿@page "/people"
+
+@code{
+	private class Person
+	{
+		public string Path { get; set; }
+		public string Name{ get; set; }
+		public string Content{ get; set; }
+	}
+	List<Person> People { get; set; } = new List<Person>()
+	{
+		new Person(){ Name="Ouse",Path="Images/人员/Ouse.jpg",Content="目前大二，正在学习Unity引擎和.NET，擅长C#语言，对计算机和编程非常感兴趣，工作室中负责主程序。\n联系方式：2216528769@qq.com"},
+		new Person(){ Name="Touken",Path="Images/人员/touken.jpg",Content="目前大二，正在学习算法和GUI，擅长算法和C++，jscpc败犬,对算法有着浓厚的兴趣，工作室中负责算法分析和辅助Ouse。" },
+		new Person(){ Name="Grsgr",Path="Images/人员/grsgr.jpg",Content="目前大二，正在学习美术，设计过卡牌游戏，有对游戏的创意和想法，工作室中负责部分美术。" },
+		new Person(){ Name="BiBiBi",Path="Images/人员/bibibi.jpg",Content="目前大二，应该有努力学习，有扶过老太太过马路,负责美术。" },
+		new Person(){ Name="洋洋",Path="Images/人员/w.jpg",Content="目前大三，负责提供游戏思路，游戏推广以及运营，偶尔为团队提供游戏价值。" },
+		new Person(){ Name="Yuze",Path="Images/人员/yuZe.jpg",Content="目前大二，柚子厨，喜欢音乐，工作室中负责音乐和剪辑。" }
+	};
+}
+<PageTitle>人员介绍</PageTitle>
+@foreach(var person in People)
+{
+	<人员 Path="@person.Path" Name="@person.Name" Content="@person.Content"/>
+}

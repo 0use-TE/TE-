@@ -1,0 +1,24 @@
+﻿@using MudBlazorWebApp.Models
+@inject HttpClient HttpClient
+<MudPaper Elevation="4" Class="px-4">
+    <MudForm Model="@model">
+        <MudTextField Label="请输入昵称:" T="string" @bind-Value=model.NickName></MudTextField>
+        <MudTextField Label="请输入正文:" T="string" @bind-Value=model.Content Lines="4"></MudTextField>
+        <MudRating @bind-SelectedValue="model.Score" />
+        <MudIconButton @onclick=Post Icon="@Icons.Material.Filled.Send" Style="display:inline"></MudIconButton>
+    </MudForm>
+</MudPaper>
+@code {
+   
+    [Parameter]
+    public string? GameName{ get; set; }
+    [Parameter]
+    public string? PostApiPath { get; set; }
+    GamePageModel model = new GamePageModel();
+    private async Task Post()
+    {
+        model.GameName = GameName;
+        model.DateTime = DateTime.Now;
+        HttpResponseMessage responseMessage = await HttpClient.PostAsJsonAsync<GamePageModel>(PostApiPath, model);
+    }
+}

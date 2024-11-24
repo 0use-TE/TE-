@@ -1,0 +1,96 @@
+﻿@page "/Comment"
+@inject IJSRuntime JS
+@using MudBlazorWebApp.Models
+@inject HttpClient HttpClient
+<PageTitle>墨香心语</PageTitle>
+
+@foreach(var item in comments)
+{
+   <评论 comment="@item"/>
+}
+
+@if (appear)
+{
+    <div class="fixed-bottom-comment">
+        <发送评论 PostApiPath="http://106.54.7.121:25000/api/Comment/PostComment"></发送评论>
+   </div>
+}
+<MudIconButton Icon="@Icons.Material.Filled.Add" Size="Size.Large" Color="Color.Primary" Class="fixed-bottom-right" @onclick="ChangeCommentAddDisplayer"></MudIconButton>
+@code {
+    private bool appear;
+
+    private void ChangeCommentAddDisplayer()
+    {
+        appear = !appear;
+    }
+}
+@code {
+  
+    private List<Comment>? comments = new List<Comment>();
+    private int currentPage = 1;
+    private const int PageSize = 10;
+    private bool isLoading = false;
+    
+    protected async override Task OnInitializedAsync()
+    {
+        comments = await HttpClient.GetFromJsonAsync<List<Comment>>("http://106.54.7.121:25000/api/Comment/RandomGetComment?counts=6");
+        return;
+    }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            // 注册 JavaScript 事件监听器
+            var dotnetHelper = DotNetObjectReference.Create(this);
+            await JS.InvokeVoidAsync("initializeScrollEvent", dotnetHelper);
+        }
+       
+    }
+
+    [JSInvokable]
+    public async Task OnScrollToBottom()
+    {
+        if (isLoading) return;
+
+        isLoading = true;
+        
+            currentPage++;
+        var response = await HttpClient.GetFromJsonAsync<List<Comment>>("http://106.54.7.121:25000/api/Comment/RandomGetComment?counts=6");
+
+            if (response != null && response.Any())
+            {
+                comments.AddRange(response);
+                StateHasChanged(); // 确保 UI 更新
+            } 
+            isLoading = false;
+        
+    }
+}
+<style>
+
+    /* 添加一个类来固定按钮 */
+    .fixed-bottom-right {
+        position: fixed; /* 使用 fixed 定位 */
+        bottom: 1vw; /* 距离视口底部 20px */
+        right: 5vw; /* 距离视口右侧 20px */
+        z-index: 1000; /* 提高 z-index 以确保按钮在其他内容之上 */
+    }
+    .fixed-bottom-comment
+    {
+        position: fixed; /* 使用 fixed 定位 */
+        bottom: 1vw; 
+        right: 15vw; 
+        z-index: 1000; 
+       width:60vw;
+    }
+
+    @@media (max-width: 768px) {
+        .fixed-bottom-comment {
+            position: fixed; 
+            bottom: 1vw;
+            left: 2vw;
+            width:80vw;
+            z-index: 1000;
+        }
+    }
+</style> 

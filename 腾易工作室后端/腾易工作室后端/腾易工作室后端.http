@@ -1,0 +1,6 @@
+@腾易工作室后端_HostAddress = http://localhost:5082
+
+GET {{腾易工作室后端_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
