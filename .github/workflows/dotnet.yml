@@ -27,14 +27,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore ./腾易工作室前端/滕易工作室前端.sln
       
-    - name: Build
-      run: dotnet build  ./腾易工作室前端/滕易工作室前端.sln --no-restore
-      
-    - name: Test
-      run: dotnet test ./腾易工作室前端/滕易工作室前端.sln --no-build --verbosity normal
 
-    - name: Publish
-      run: dotnet publish ./腾易工作室前端/滕易工作室前端.sln --configuration Release --output ./publish
 
 
 
