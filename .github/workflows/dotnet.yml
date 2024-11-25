@@ -19,9 +19,11 @@ jobs:
         dotnet-version: 8.0.108
     - name: List files for debugging
       run: ls -R
+    - name: Check file permissions
+      run: ls -l /home/runner/work/TEStudio/TEStudio/腾易工作室前端
 
     - name: Restore dependencies
-      run: dotnet restore "./腾易工作室前端/滕易工作室前端.sln"
+      run: dotnet restore ./腾易工作室前端/滕易工作室前端.sln
 
       
 
