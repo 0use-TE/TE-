@@ -45,11 +45,11 @@ jobs:
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -H $SERVER_HOST >> ~/.ssh/known_hosts
         
-        scp -r ./publish/ $SERVER_USER@$SERVER_HOST:/path/to/deploy/directory/
+        #scp -r ./publish/ $SERVER_USER@$SERVER_HOST:/path/to/deploy/directory/
 
         # 在远程服务器上重启应用（例如使用 dotnet 启动）
         ssh $SERVER_USER@$SERVER_HOST << 'EOF'
-          cd /path/to/deploy/directory/
+          #cd /path/to/deploy/directory/
           
         EOF
 
