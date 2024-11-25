@@ -11,16 +11,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # 1. 检出代码
     - uses: actions/checkout@v4
 
+    # 2. 设置 .NET 环境
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.108
 
-
+    # 3. 恢复依赖
     - name: Restore dependencies
       run: dotnet restore ./腾易工作室前端/
+
+    # 4. 构建项目
+    - name: Build project
+      run: dotnet build ./腾易工作室前端/ --configuration Release
+
+    # 5. 打包项目
+    - name: Publish project
+      run: dotnet publish ./腾易工作室前端/ --configuration Release --output ./publish
+
+
 
       
 
