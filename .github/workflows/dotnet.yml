@@ -23,7 +23,7 @@ jobs:
       run: ls -l /home/runner/work/TEStudio/TEStudio/腾易工作室前端
 
     - name: Restore dependencies
-      run: dotnet restore /home/runner/work/TEStudio/TEStudio/腾易工作室前端/滕易工作室前端.sln
+      run: dotnet restore /home/runner/work/TEStudio/TEStudio/腾易工作室前端/
 
       
 
