@@ -32,7 +32,26 @@ jobs:
     - name: Publish project
       run: dotnet publish ./腾易工作室前端/ --configuration Release --output ./publish
 
+    # 6. 部署到服务器
+    - name: Deploy to server
+      env:
+        SERVER_HOST: ${{ secrets.SERVER_HOST }}
+        SERVER_USER: ${{ secrets.SERVER_USER }}
+        SERVER_SSH_KEY: ${{ secrets.SERVER_SSH_KEY }}
+      run: |
+        # 将发布的文件拷贝到远程服务器
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H $SERVER_HOST >> ~/.ssh/known_hosts
+        
+        scp -r ./publish/ $SERVER_USER@$SERVER_HOST:/path/to/deploy/directory/
 
+        # 在远程服务器上重启应用（例如使用 dotnet 启动）
+        ssh $SERVER_USER@$SERVER_HOST << 'EOF'
+          cd /path/to/deploy/directory/
+          
+        EOF
 
       
 
