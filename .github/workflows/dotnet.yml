@@ -17,7 +17,9 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.108
-    
+    - name: List files for debugging
+      run: ls -R
+
     - name: Restore dependencies
       run: dotnet restore "./腾易工作室前端/滕易工作室前端.sln"
 
