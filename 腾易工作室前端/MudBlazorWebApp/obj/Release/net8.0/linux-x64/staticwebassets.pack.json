@@ -1,223 +1,215 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Games\\地牢迷途.rar",
-      "PackagePath": "staticwebassets\\Games\\地牢迷途.rar"
-    },
-    {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Games\\抓大鹅.rar",
-      "PackagePath": "staticwebassets\\Games\\抓大鹅.rar"
-    },
-    {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\1.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\1.png",
       "PackagePath": "staticwebassets\\Images\\Game\\地牢迷途\\1.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\2.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\2.png",
       "PackagePath": "staticwebassets\\Images\\Game\\地牢迷途\\2.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\3.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\3.png",
       "PackagePath": "staticwebassets\\Images\\Game\\地牢迷途\\3.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\4.mp4",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\4.mp4",
       "PackagePath": "staticwebassets\\Images\\Game\\地牢迷途\\4.mp4"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\1.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\1.png",
       "PackagePath": "staticwebassets\\Images\\Game\\抓大鹅\\1.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\2.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\2.png",
       "PackagePath": "staticwebassets\\Images\\Game\\抓大鹅\\2.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\3.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\3.png",
       "PackagePath": "staticwebassets\\Images\\Game\\抓大鹅\\3.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\4.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\4.png",
       "PackagePath": "staticwebassets\\Images\\Game\\抓大鹅\\4.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\HomeVideo.mp4",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\HomeVideo.mp4",
       "PackagePath": "staticwebassets\\Images\\Home\\HomeVideo.mp4"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\teLogo.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\teLogo.png",
       "PackagePath": "staticwebassets\\Images\\Home\\teLogo.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\落叶.jpg",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\落叶.jpg",
       "PackagePath": "staticwebassets\\Images\\Home\\落叶.jpg"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\Ouse.jpg",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\Ouse.jpg",
       "PackagePath": "staticwebassets\\Images\\人员\\Ouse.jpg"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\bibibi.jpg",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\bibibi.jpg",
       "PackagePath": "staticwebassets\\Images\\人员\\bibibi.jpg"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\grsgr.jpg",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\grsgr.jpg",
       "PackagePath": "staticwebassets\\Images\\人员\\grsgr.jpg"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\touken.jpg",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\touken.jpg",
       "PackagePath": "staticwebassets\\Images\\人员\\touken.jpg"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\w.jpg",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\w.jpg",
       "PackagePath": "staticwebassets\\Images\\人员\\w.jpg"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\yuZe.jpg",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\yuZe.jpg",
       "PackagePath": "staticwebassets\\Images\\人员\\yuZe.jpg"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\JS\\test.js",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\JS\\test.js",
       "PackagePath": "staticwebassets\\JS\\test.js"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.framework.js.unityweb",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.framework.js.unityweb",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.framework.js.unityweb"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.loader.js",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.loader.js",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.loader.js"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.wasm.unityweb",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.wasm.unityweb",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.wasm.unityweb"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\MemoryProfiler.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\MemoryProfiler.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\MemoryProfiler.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\favicon.ico",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\favicon.ico",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\fullscreen-button.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\fullscreen-button.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\fullscreen-button.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-dark.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-dark.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-dark.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-light.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-light.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-light.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-dark.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-dark.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-dark.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-light.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-light.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-light.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\style.css",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\style.css",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\style.css"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-dark.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-dark.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-light.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-light.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-light.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webgl-logo.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webgl-logo.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\webgl-logo.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webmemd-icon.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webmemd-icon.png",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\TemplateData\\webmemd-icon.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\index.html",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\index.html",
       "PackagePath": "staticwebassets\\在线游玩\\数字华容道Web\\index.html"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.data.unityweb",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.data.unityweb",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.data.unityweb"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.framework.js.unityweb",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.framework.js.unityweb",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.framework.js.unityweb"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.loader.js",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.loader.js",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.loader.js"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.wasm.unityweb",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.wasm.unityweb",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.wasm.unityweb"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\MemoryProfiler.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\MemoryProfiler.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\MemoryProfiler.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\favicon.ico",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\favicon.ico",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\fullscreen-button.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\fullscreen-button.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\fullscreen-button.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-dark.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-dark.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-dark.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-light.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-light.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-light.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-dark.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-dark.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-dark.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-light.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-light.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-light.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\style.css",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\style.css",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\style.css"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-dark.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-dark.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-light.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-light.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-light.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webgl-logo.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webgl-logo.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\webgl-logo.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webmemd-icon.png",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webmemd-icon.png",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\TemplateData\\webmemd-icon.png"
     },
     {
-      "Id": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\index.html",
+      "Id": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\index.html",
       "PackagePath": "staticwebassets\\在线游玩\\消灭星星Web\\index.html"
     },
     {

@@ -228,7 +228,7 @@
           }
         }
       },
-      "MudBlazor/7.14.0": {
+      "MudBlazor/7.15.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components": "8.0.8",
@@ -497,7 +497,7 @@
           }
         }
       },
-      "MudBlazor/7.14.0": {
+      "MudBlazor/7.15.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components": "8.0.8",
@@ -907,10 +907,10 @@
         "microsoft.jsinterop.nuspec"
       ]
     },
-    "MudBlazor/7.14.0": {
-      "sha512": "hpuNSlI6/BVCe4H6X4BoHijxMffFE1ldunvFzAFZRTGuSGoYC7N6IIUv64MN3F/hkiRllx3gtivTZjivymxIpQ==",
+    "MudBlazor/7.15.0": {
+      "sha512": "b2+hO7ZTGwsGhu9SoowuNe2ETeF1GzExpg/hIYR++rSh+vy4v/QD0iOsrATWv3LdFJXSgk3d1+XIr5srW3jBiA==",
       "type": "package",
-      "path": "mudblazor/7.14.0",
+      "path": "mudblazor/7.15.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -927,7 +927,7 @@
         "lib/net7.0/MudBlazor.xml",
         "lib/net8.0/MudBlazor.dll",
         "lib/net8.0/MudBlazor.xml",
-        "mudblazor.7.14.0.nupkg.sha512",
+        "mudblazor.7.15.0.nupkg.sha512",
         "mudblazor.nuspec",
         "staticwebassets/MudBlazor.min.css",
         "staticwebassets/MudBlazor.min.js"
@@ -965,28 +965,23 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MudBlazor >= 7.*"
+      "MudBlazor >= 7.15.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LX\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
       "projectName": "MudBlazorWebApp",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\obj\\publish\\linux-x64\\",
+      "projectPath": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
+      "packagesPath": "C:\\Users\\LX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\obj\\publish\\linux-x64\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\LX\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1020,7 +1015,7 @@
         "dependencies": {
           "MudBlazor": {
             "target": "Package",
-            "version": "[7.*, )"
+            "version": "[7.15.0, )"
           }
         },
         "imports": [
@@ -1048,7 +1043,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

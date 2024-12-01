@@ -696,23 +696,23 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MudBlazor >= 7.*"
+      "MudBlazor >= 7.15.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\22165\\.nuget\\packages\\": {}
+    "C:\\Users\\LX\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\22165\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
       "projectName": "MudBlazorWebApp",
-      "projectPath": "C:\\Users\\22165\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
-      "packagesPath": "C:\\Users\\22165\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\22165\\OneDrive\\腾易工作室前端\\MudBlazorWebApp\\obj\\",
+      "projectPath": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
+      "packagesPath": "C:\\Users\\LX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LX\\Desktop\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\22165\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LX\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -746,7 +746,7 @@
         "dependencies": {
           "MudBlazor": {
             "target": "Package",
-            "version": "[7.*, )"
+            "version": "[7.15.0, )"
           }
         },
         "imports": [
@@ -768,7 +768,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

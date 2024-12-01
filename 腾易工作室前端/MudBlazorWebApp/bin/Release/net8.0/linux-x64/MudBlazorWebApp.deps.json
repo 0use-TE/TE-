@@ -9,7 +9,7 @@
     ".NETCoreApp,Version=v8.0/linux-x64": {
       "MudBlazorWebApp/1.0.0": {
         "dependencies": {
-          "MudBlazor": "7.14.0"
+          "MudBlazor": "7.15.0"
         },
         "runtime": {
           "MudBlazorWebApp.dll": {}
@@ -143,7 +143,7 @@
           }
         }
       },
-      "MudBlazor/7.14.0": {
+      "MudBlazor/7.15.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "8.0.8",
           "Microsoft.AspNetCore.Components.Web": "8.0.8",
@@ -151,8 +151,8 @@
         },
         "runtime": {
           "lib/net8.0/MudBlazor.dll": {
-            "assemblyVersion": "7.14.0.0",
-            "fileVersion": "7.14.0.0"
+            "assemblyVersion": "7.15.0.0",
+            "fileVersion": "7.15.0.0"
           }
         }
       },
@@ -263,12 +263,12 @@
       "path": "microsoft.jsinterop/8.0.8",
       "hashPath": "microsoft.jsinterop.8.0.8.nupkg.sha512"
     },
-    "MudBlazor/7.14.0": {
+    "MudBlazor/7.15.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hpuNSlI6/BVCe4H6X4BoHijxMffFE1ldunvFzAFZRTGuSGoYC7N6IIUv64MN3F/hkiRllx3gtivTZjivymxIpQ==",
-      "path": "mudblazor/7.14.0",
-      "hashPath": "mudblazor.7.14.0.nupkg.sha512"
+      "sha512": "sha512-b2+hO7ZTGwsGhu9SoowuNe2ETeF1GzExpg/hIYR++rSh+vy4v/QD0iOsrATWv3LdFJXSgk3d1+XIr5srW3jBiA==",
+      "path": "mudblazor/7.15.0",
+      "hashPath": "mudblazor.7.15.0.nupkg.sha512"
     },
     "System.IO.Pipelines/8.0.0": {
       "type": "package",

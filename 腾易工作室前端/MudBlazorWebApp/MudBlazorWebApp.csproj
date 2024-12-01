@@ -6,8 +6,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="wwwroot\live2d-widget-master\**" />
+    <Compile Remove="wwwroot\Live2D\**" />
+    <Content Remove="wwwroot\live2d-widget-master\**" />
+    <Content Remove="wwwroot\Live2D\**" />
+    <EmbeddedResource Remove="wwwroot\live2d-widget-master\**" />
+    <EmbeddedResource Remove="wwwroot\Live2D\**" />
+    <None Remove="wwwroot\live2d-widget-master\**" />
+    <None Remove="wwwroot\Live2D\**" />
+  </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="MudBlazor" Version="7.*" />
+    <PackageReference Include="MudBlazor" Version="7.15.0" />
   </ItemGroup>
 </Project>
