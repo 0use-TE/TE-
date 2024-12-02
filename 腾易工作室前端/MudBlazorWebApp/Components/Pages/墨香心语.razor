@@ -6,35 +6,36 @@
 
 @foreach(var item in comments)
 {
-   <评论 comment="@item"/>
+    <评论 comment="@item"/>
 }
 
 @if (appear)
 {
     <div class="fixed-bottom-comment">
-        <发送评论 PostApiPath="http://106.54.7.121:25000/api/Comment/PostComment"></发送评论>
-   </div>
+        <发送评论 PostApiPath="@URL"></发送评论>
+    </div>
 }
 <MudIconButton Icon="@Icons.Material.Filled.Add" Size="Size.Large" Color="Color.Primary" Class="fixed-bottom-right" @onclick="ChangeCommentAddDisplayer"></MudIconButton>
-@code {
+@code{
     private bool appear;
-
+    private string URL = Settings.URL + "Comment/PostComment";
     private void ChangeCommentAddDisplayer()
     {
         appear = !appear;
     }
 }
+
+
 @code {
-  
-    private List<Comment>? comments = new List<Comment>();
+    private List<CommentModel> comments = new List<CommentModel>();
     private int currentPage = 1;
-    private const int PageSize = 10;
+    private const int PageSize = 6;
     private bool isLoading = false;
-    
+
     protected async override Task OnInitializedAsync()
     {
-        comments = await HttpClient.GetFromJsonAsync<List<Comment>>("http://106.54.7.121:25000/api/Comment/RandomGetComment?counts=6");
-        return;
+        // 加载第一页的评论
+        comments = await LoadCommentsAsync(currentPage);
     }
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
@@ -44,30 +45,31 @@
             var dotnetHelper = DotNetObjectReference.Create(this);
             await JS.InvokeVoidAsync("initializeScrollEvent", dotnetHelper);
         }
-       
-    }
 
+    }
+    private async Task<List<CommentModel>> LoadCommentsAsync(int page)
+    {
+        var response = await HttpClient.GetFromJsonAsync<List<CommentModel>>($"{Settings.URL}Comment/GetPagedComments?page={page}&pageSize={PageSize}");
+        return response ?? new List<CommentModel>(); // 防止返回 null
+    }
     [JSInvokable]
     public async Task OnScrollToBottom()
     {
         if (isLoading) return;
-
         isLoading = true;
-        
-            currentPage++;
-        var response = await HttpClient.GetFromJsonAsync<List<Comment>>("http://106.54.7.121:25000/api/Comment/RandomGetComment?counts=6");
-
-            if (response != null && response.Any())
-            {
-                comments.AddRange(response);
-                StateHasChanged(); // 确保 UI 更新
-            } 
-            isLoading = false;
-        
+        // 加载下一页评论
+        currentPage++;
+        Console.WriteLine(currentPage);
+        var newComments = await LoadCommentsAsync(currentPage);
+        if (newComments.Any())
+        {
+            comments.AddRange(newComments); // 将新评论追加到现有列表中
+            StateHasChanged(); // 强制更新 UI
+        }
+        isLoading = false;
+       }
     }
-}
 <style>
-
     /* 添加一个类来固定按钮 */
     .fixed-bottom-right {
         position: fixed; /* 使用 fixed 定位 */

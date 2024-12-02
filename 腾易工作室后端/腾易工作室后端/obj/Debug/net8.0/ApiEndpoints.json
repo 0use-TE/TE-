@@ -1,6 +1,37 @@
 [
   {
     "ContainingType": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.Controllers.CommentController",
+    "Method": "GetPagedComments",
+    "RelativePath": "api/Comment/GetPagedComments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.Models.CommentModel, \u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.Controllers.CommentController",
     "Method": "PostComment",
     "RelativePath": "api/Comment/PostComment",
     "HttpMethod": "POST",
@@ -39,32 +70,6 @@
       {
         "Type": "System.Void",
         "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.Controllers.CommentController",
-    "Method": "RandomGetComment",
-    "RelativePath": "api/Comment/RandomGetComment",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "counts",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.Models.CommentModel, \u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
         "StatusCode": 200
       }
     ]

@@ -1,12 +1,13 @@
-﻿@page "/2024-12-1"
+﻿@page "/Diary/{Guid:guid}"
 
 
-@code{
-    private DiaryType DiaryType{ get; set; }
-    protected override Task OnInitializedAsync()
+@code {
+    [Parameter] public Guid Guid { get; set; }  // 接受来自 URL 的 Guid
+
+    private Diary? selectedDiary;
+
+    protected override void OnInitialized()
     {
-
-        
-        return base.OnInitializedAsync();
+        selectedDiary = DiaryData.diary2024Y12M.FirstOrDefault(d => d.Guid == Guid);
     }
 }

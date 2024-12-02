@@ -2,6 +2,7 @@ using Microsoft.JSInterop;
 using MudBlazor.Services;
 using MudBlazorWebApp.Components;
 using MudBlazorWebApp.Data;
+using MudBlazorWebApp.Models;
 using System.Net;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,16 +16,20 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 builder.WebHost.ConfigureKestrel(serverOptions =>
 {
-    serverOptions.Listen(IPAddress.Any, 80); // 监听所有网络接口上的25000端口  
+    serverOptions.Listen(IPAddress.Any, 80); // 监听所有网络接口上的80端口  
 });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Error", createScopeForErrors: true);
+	app.UseExceptionHandler("/Error", createScopeForErrors: true);
+	Settings.URL = app.Configuration["URL"] ?? "http://106.54.7.121:25000/api"; // 默认值
 }
-
+else
+{
+	Settings.URL = app.Configuration["DevelopmentURL"] ?? "http://localhost:25000/api"; // 默认值
+}
 app.UseStaticFiles();
 app.UseAntiforgery();
 

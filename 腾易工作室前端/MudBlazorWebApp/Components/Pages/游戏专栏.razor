@@ -32,8 +32,8 @@
         <MudItem xs="12" md="5" >
             <MudPaper Class="pa-4" Width="100%" Height="300px" Style="position: relative">
                 <MudIconButton Icon="@Icons.Material.Filled.GetApp" Size="Size.Large" Href="@currentGame.downloadLink"></MudIconButton>
-               <MudText Typo="Typo.h6">游戏名:@currentGame.Name</MudText>
-               <MudText Typo="Typo.subtitle2">开发商:@currentGame.Developers</MudText>
+                <MudText Typo="Typo.h6">游戏名:@currentGame.Name</MudText>
+                <MudText Typo="Typo.subtitle2">开发商:@currentGame.Developers</MudText>
                 <MudText Typo="Typo.subtitle2">标签:@currentGame.Tag</MudText>
                 <MudText>简介:@currentGame.Brief</MudText>
                 <MudRating SelectedValue="4" ReadOnly Style="position:absolute;bottom:0;right:2%"/>
@@ -47,7 +47,7 @@
             </MudPaper>
         </MudItem>
 
- 
+
 
         <!-- 评论区 -->
         <MudItem xs="12">
@@ -65,17 +65,15 @@
 @if (appear)
 {
     <div class="fixed-bottom-comment">
-        <游戏发送评论 PostApiPath="http://106.54.7.121:25000/api/Comment/PostGameComment" GameName="@gameName"></游戏发送评论>
+        <游戏发送评论 PostApiPath="@URL" GameName="@gameName"></游戏发送评论>
     </div>
 }
 <MudIconButton Icon="@Icons.Material.Filled.Add" Size="Size.Large" Color="Color.Primary" Class="fixed-bottom-right" @onclick="ChangeCommentAddDisplayer"></MudIconButton>
 @code {
+    private string URL = Settings.URL + "Comment/PostGameComment";
     private bool appear;
+    private void ChangeCommentAddDisplayer()=> appear = !appear;
 
-    private void ChangeCommentAddDisplayer()
-    {
-        appear = !appear;
-    }
 }
 @code {
 

@@ -1,6 +1,6 @@
 ﻿namespace MudBlazorWebApp.Models
 {
-    public class Comment
+    public class CommentModel
     {
         public int Id { get; set; }
         public string NickName { get; set; }
