@@ -11,8 +11,7 @@
             </MudListSubheader>
             @foreach (var game in Games)
             {
-                <MudListItem Text="@game.Name" OnClick="()=>{gameName=game.Name; 
-                              currentGame = Games.First(g => g.Name == gameName);}">
+                <MudListItem Text="@game.Name" OnClick="()=>{gameName=game.Name; currentGame = Games.First(g => g.Name == gameName);}">
                 </MudListItem>
             }
         </NestedList>
@@ -24,30 +23,28 @@
         <!-- 轮播图区域 -->
         <MudItem xs="12" md="7">
             <MudPaper Class="pa-4" Width="100%" Height="300px">
-                <游戏轮播图 PathList="currentGame.PathList"/>
+                <游戏轮播图 PathList="currentGame.PathList" />
             </MudPaper>
         </MudItem>
 
         <!-- 标签和其他信息 -->
-        <MudItem xs="12" md="5" >
+        <MudItem xs="12" md="5">
             <MudPaper Class="pa-4" Width="100%" Height="300px" Style="position: relative">
                 <MudIconButton Icon="@Icons.Material.Filled.GetApp" Size="Size.Large" Href="@currentGame.downloadLink"></MudIconButton>
                 <MudText Typo="Typo.h6">游戏名:@currentGame.Name</MudText>
                 <MudText Typo="Typo.subtitle2">开发商:@currentGame.Developers</MudText>
                 <MudText Typo="Typo.subtitle2">标签:@currentGame.Tag</MudText>
                 <MudText>简介:@currentGame.Brief</MudText>
-                <MudRating SelectedValue="4" ReadOnly Style="position:absolute;bottom:0;right:2%"/>
+                <MudRating SelectedValue="4" ReadOnly Style="position:absolute;bottom:0;right:2%" />
             </MudPaper>
         </MudItem>
 
         <!-- 正文介绍 -->
         <MudItem xs="12" md="12">
-            <MudPaper Class="pa-4" Width="100%" >
+            <MudPaper Class="pa-4" Width="100%">
                 <MudText Style="white-space: pre-line;">@currentGame.Context</MudText>
             </MudPaper>
         </MudItem>
-
-
 
         <!-- 评论区 -->
         <MudItem xs="12">
@@ -61,7 +58,6 @@
     </MudGrid>
 </MudContainer>
 
-
 @if (appear)
 {
     <div class="fixed-bottom-comment">
@@ -69,30 +65,31 @@
     </div>
 }
 <MudIconButton Icon="@Icons.Material.Filled.Add" Size="Size.Large" Color="Color.Primary" Class="fixed-bottom-right" @onclick="ChangeCommentAddDisplayer"></MudIconButton>
-@code {
-    private string URL = Settings.URL + "Comment/PostGameComment";
-    private bool appear;
-    private void ChangeCommentAddDisplayer()=> appear = !appear;
 
-}
 @code {
-
     private List<GamePageModel>? comments = new List<GamePageModel>();
     private int currentPage = 1;
-    private const int PageSize = 10;
+    private const int PageSize = 6;
     private bool isLoading = false;
+
+    private string URL = Settings.URL + "Comment/PostGameComment";
+    private string? gameName;
+    private Game? currentGame;
+
+    private bool appear;
+
+    private List<Game>? Games { get; set; }
 
     protected async override Task OnInitializedAsync()
     {
         Games = Data.Games;
-        Random random = new Random();
-        // gameName = Games[random.Next(Games.Count)].Name;
+
+        // 默认选择第一个游戏
         gameName = Games[0].Name;
         currentGame = Games.First(g => g.Name == gameName);
-
-        comments = await HttpClient.GetFromJsonAsync<List<GamePageModel>>("http://106.54.7.121:25000/api/Comment/RandomGetGameComment?counts=6&gameName=抓大鹅");
-        return;
+        comments = await LoadCommentsAsync(currentPage);
     }
+
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
@@ -101,35 +98,31 @@
             var dotnetHelper = DotNetObjectReference.Create(this);
             await JS.InvokeVoidAsync("initializeScrollEvent", dotnetHelper);
         }
+    }
 
+    private async Task<List<GamePageModel>> LoadCommentsAsync(int page)
+    {
+        var response = await HttpClient.GetFromJsonAsync<List<GamePageModel>>($"{Settings.URL}Comment/GetGameComments?gameName={gameName}&page={page}&pageSize={PageSize}");
+        return response ?? new List<GamePageModel>(); // 防止返回 null
     }
 
     [JSInvokable]
     public async Task OnScrollToBottom()
     {
         if (isLoading) return;
-
         isLoading = true;
-
+        // 加载下一页评论
         currentPage++;
-        var response = await HttpClient.GetFromJsonAsync<List<GamePageModel>>("http://106.54.7.121:25000/api/Comment/RandomGetGameComment?counts=6&gameName=抓大鹅");
-
-        if (response != null && response.Any())
+        var newComments = await LoadCommentsAsync(currentPage);
+        if (newComments.Any())
         {
-            comments.AddRange(response);
-            StateHasChanged(); // 确保 UI 更新
+            comments.AddRange(newComments); // 将新评论追加到现有列表中
+            StateHasChanged(); // 强制更新 UI
         }
         isLoading = false;
-
     }
-}
 
-
-@code{
-    private List<Game>? Games { get; set; } 
-    public string? gameName;
-    public Game? currentGame;
-
+    private void ChangeCommentAddDisplayer() => appear = !appear;
 }
 
 

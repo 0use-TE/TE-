@@ -1,7 +1,8 @@
 ﻿@using MudBlazorWebApp.Models
+@inject ISnackbar Snackbar
 @inject HttpClient HttpClient
 <MudPaper Elevation="4" Class="px-4">
-    <MudForm Model="@model">
+    <MudForm Model="@model" @ref=form>
         <MudTextField Required RequiredError="昵称不可为空！" Label="请输入昵称:" T="string" @bind-Value=model.NickName></MudTextField>
         <MudTextField Required RequiredError="正文不可为空！" Label="请输入正文:" T="string" @bind-Value=model.Content Lines="4"></MudTextField>
         <MudRating @bind-SelectedValue="model.Score" />
@@ -9,14 +10,20 @@
     </MudForm>
 </MudPaper>
 @code {
-   
+
     [Parameter]
     public string? GameName{ get; set; }
     [Parameter]
     public string? PostApiPath { get; set; }
+    private MudForm form = null!;
     GamePageModel model = new GamePageModel();
     private async Task Post()
     {
+        await form.Validate();
+        if (form.IsValid)
+            Snackbar.Add("发送成功！", Severity.Success);
+        else
+            Snackbar.Add("发送失败，请检查是否填充所需内容！", Severity.Error);
         model.GameName = GameName;
         model.DateTime = DateTime.Now;
         HttpResponseMessage responseMessage = await HttpClient.PostAsJsonAsync<GamePageModel>(PostApiPath, model);

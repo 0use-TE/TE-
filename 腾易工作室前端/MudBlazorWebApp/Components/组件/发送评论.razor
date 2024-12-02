@@ -18,12 +18,12 @@
     {
         Console.WriteLine(PostApiPath);
         model.DateTime = DateTime.Now; 
-        model=new CommentModel();
         await form.Validate();
         if (form.IsValid)
             Snackbar.Add("发送成功！",Severity.Success);
         else
             Snackbar.Add("发送失败，请检查是否填充所需内容！",Severity.Error);
         HttpResponseMessage responseMessage = await HttpClient.PostAsJsonAsync<CommentModel>(PostApiPath, model);
+        model=new CommentModel();
     }
 }

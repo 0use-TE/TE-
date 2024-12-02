@@ -7,21 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Components\Diary\2025\**" />
     <Compile Remove="wwwroot\live2d-widget-master\**" />
     <Compile Remove="wwwroot\Live2D\**" />
+    <Content Remove="Components\Diary\2025\**" />
     <Content Remove="wwwroot\live2d-widget-master\**" />
     <Content Remove="wwwroot\Live2D\**" />
+    <EmbeddedResource Remove="Components\Diary\2025\**" />
     <EmbeddedResource Remove="wwwroot\live2d-widget-master\**" />
     <EmbeddedResource Remove="wwwroot\Live2D\**" />
+    <None Remove="Components\Diary\2025\**" />
     <None Remove="wwwroot\live2d-widget-master\**" />
     <None Remove="wwwroot\Live2D\**" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="7.15.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Components\Diary\2025\" />
   </ItemGroup>
 </Project>

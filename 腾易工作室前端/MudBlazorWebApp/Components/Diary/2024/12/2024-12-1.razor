@@ -1,6 +1,8 @@
-﻿@page "/Diary/{Guid:guid}"
+﻿@page "/Diary"
+@using MudBlazorWebApp.Components.Layout
+@layout DiaryLayout
 
-
+<MudText>为什么错误</MudText>
 @code {
     [Parameter] public Guid Guid { get; set; }  // 接受来自 URL 的 Guid
 

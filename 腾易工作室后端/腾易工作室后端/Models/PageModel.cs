@@ -3,6 +3,6 @@
     public class PageModel
     {
         public int Id { get; set; }
-        public List<PageModel> Pages { get; set; }
+        public List<PageModel> Pages { get; set; } = null!;
     }
 }
