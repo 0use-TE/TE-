@@ -1,4 +1,53 @@
 ﻿@page "/Ouse"
-@code {
 
+
+@using MudBlazor
+@using System.Linq
+
+<MudDateRangePicker @bind-DateRange="selectedDateRange" Label="选择日期范围" />
+
+<MudButton OnClick="FilterDiaries">筛选日记</MudButton>
+
+<MudList T="DiaryEntry" >
+    @foreach (var diary in filteredDiaries)
+    {
+        <MudListItem>
+            <MudText Typo="Typo.body1">@diary.Date.ToString("yyyy-MM-dd")</MudText>
+            <MudText Typo="Typo.body2">@diary.Content</MudText>
+        </MudListItem>
+    }
+</MudList>
+
+@code {
+    private DateRange selectedDateRange { get; set; }
+    private List<DiaryEntry> allDiaries = new List<DiaryEntry>
+    {
+        new DiaryEntry { Date = new DateTime(2024, 11, 1), Content = "今天学习了MudBlazor！" },
+        new DiaryEntry { Date = new DateTime(2024, 11, 10), Content = "玩了一个很棒的游戏。" },
+        new DiaryEntry { Date = new DateTime(2024, 11, 15), Content = "做了一个项目的商业规划书。" }
+    };
+    private List<DiaryEntry> filteredDiaries;
+
+    protected override void OnInitialized()
+    {
+        filteredDiaries = allDiaries; // 默认显示所有日记
+    }
+
+    private void FilterDiaries()
+    {
+        if (selectedDateRange.Start.HasValue && selectedDateRange.End.HasValue)
+        {
+            filteredDiaries = allDiaries.Where(d => d.Date >= selectedDateRange.Start.Value && d.Date <= selectedDateRange.End.Value).ToList();
+        }
+        else
+        {
+            filteredDiaries = allDiaries; // 如果没有选择日期范围，则显示所有日记
+        }
+    }
+
+    public class DiaryEntry
+    {
+        public DateTime Date { get; set; }
+        public string Content { get; set; }
+    }
 }

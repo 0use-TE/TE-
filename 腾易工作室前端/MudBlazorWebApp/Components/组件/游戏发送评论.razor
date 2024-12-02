@@ -2,8 +2,8 @@
 @inject HttpClient HttpClient
 <MudPaper Elevation="4" Class="px-4">
     <MudForm Model="@model">
-        <MudTextField Label="请输入昵称:" T="string" @bind-Value=model.NickName></MudTextField>
-        <MudTextField Label="请输入正文:" T="string" @bind-Value=model.Content Lines="4"></MudTextField>
+        <MudTextField Required RequiredError="昵称不可为空！" Label="请输入昵称:" T="string" @bind-Value=model.NickName></MudTextField>
+        <MudTextField Required RequiredError="正文不可为空！" Label="请输入正文:" T="string" @bind-Value=model.Content Lines="4"></MudTextField>
         <MudRating @bind-SelectedValue="model.Score" />
         <MudIconButton @onclick=Post Icon="@Icons.Material.Filled.Send" Style="display:inline"></MudIconButton>
     </MudForm>

@@ -1,20 +1,27 @@
 ﻿@using MudBlazorWebApp.Models
+@inject ISnackbar Snackbar
 @inject HttpClient HttpClient
 <MudPaper Elevation="4" Class="px-4">
-    <MudForm Model="@model" >
-        <MudTextField Label="请输入昵称:" T="string" @bind-Value=model.NickName></MudTextField>
-        <MudTextField Label="请输入标题:" T="string" @bind-Value=model.Title></MudTextField>
-        <MudTextField Label="请输入正文:" T="string" @bind-Value=model.Content Lines="4"></MudTextField>
+    <MudForm Model="@model" @ref=form>
+        <MudTextField Label="请输入昵称:" Required RequiredError="昵称不可为空!" T="string" @bind-Value=model.NickName></MudTextField>
+        <MudTextField Label="请输入标题:"  T="string" @bind-Value=model.Title></MudTextField>
+        <MudTextField Label="请输入正文:" Required RequiredError="正文不可为空！" T="string" @bind-Value=model.Content Lines="4"></MudTextField>
         <MudIconButton @onclick=Post Icon="@Icons.Material.Filled.Send"  Style="display:inline"></MudIconButton>
     </MudForm>
 </MudPaper>
 @code {
     [Parameter]
     public string? PostApiPath { get; set; }
+    public MudForm form=null!;
     Comment model = new Comment();
     private async Task Post()
     {
         model.DateTime = DateTime.Now;
+        model=new Comment();
+        if (form.IsValid)
+            Snackbar.Add("发送成功！",Severity.Success);
+        else
+            Snackbar.Add("发送失败，请检查是否填充所需内容！",Severity.Error);
         HttpResponseMessage responseMessage = await HttpClient.PostAsJsonAsync<Comment>(PostApiPath, model);
     }
 }
