@@ -1,6 +1,30 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Diary\\2024\\12\\4\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Diary\\2024\\12\\4\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Diary\\2024\\12\\4\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Diary\\2024\\12\\4\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Diary\\2024\\12\\4\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Diary\\2024\\12\\4\\6.jpg"
+    },
+    {
       "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\1.png",
       "PackagePath": "staticwebassets\\Images\\Game\\地牢迷途\\1.png"
     },
@@ -75,6 +99,94 @@
     {
       "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\.gitignore",
+      "PackagePath": "staticwebassets\\live2d-widget\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\LICENSE",
+      "PackagePath": "staticwebassets\\live2d-widget"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.en.md",
+      "PackagePath": "staticwebassets\\live2d-widget\\README.en.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.md",
+      "PackagePath": "staticwebassets\\live2d-widget\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-1.png",
+      "PackagePath": "staticwebassets\\live2d-widget\\assets\\screenshot-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-2.png",
+      "PackagePath": "staticwebassets\\live2d-widget\\assets\\screenshot-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-3.png",
+      "PackagePath": "staticwebassets\\live2d-widget\\assets\\screenshot-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\autoload.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\demo.html",
+      "PackagePath": "staticwebassets\\live2d-widget\\demo\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\login.html",
+      "PackagePath": "staticwebassets\\live2d-widget\\demo\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\live2d.min.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\live2d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\package.json",
+      "PackagePath": "staticwebassets\\live2d-widget\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\rollup.config.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\rollup.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\index.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\message.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\src\\message.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\model.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\src\\model.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\tools.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\src\\tools.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\utils.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\src\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\waifu-tips.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\src\\waifu-tips.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.js",
+      "PackagePath": "staticwebassets\\live2d-widget\\waifu-tips.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.json",
+      "PackagePath": "staticwebassets\\live2d-widget\\waifu-tips.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+      "PackagePath": "staticwebassets\\live2d-widget\\waifu.css"
     },
     {
       "Id": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb",

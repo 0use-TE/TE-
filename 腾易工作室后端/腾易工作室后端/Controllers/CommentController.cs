@@ -17,7 +17,6 @@ namespace 腾易工作室后端.Controllers
         [HttpPost]
         public void PostComment(CommentModel comment)
         {
-
             _db.Add(comment);
             _db.SaveChanges();
 		}

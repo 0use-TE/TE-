@@ -3,20 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\wwwroot\\live2d-widget\\autoload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\wwwroot\\live2d-widget\\autoload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\ouse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\ouse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\wwwroot\\live2d-widget\\waifu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\wwwroot\\live2d-widget\\waifu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-4.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-4.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\wwwroot\\images\\\u4EBA\u5458\\bibibi.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\wwwroot\\images\\\u4EBA\u5458\\bibibi.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u58A8\u9999\u5FC3\u8BED.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u58A8\u9999\u5FC3\u8BED.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u4EBA\u5458\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u4EBA\u5458\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\data\\diarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\data\\diarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\ouse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\ouse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\models\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\models\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\models\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\models\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u81F4\u8C22\u7ED3\u8BED.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,14 +87,6 @@
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u6E38\u620F\u4E13\u680F.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u4EBA\u5458\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u4EBA\u5458\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u58A8\u9999\u5FC3\u8BED.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u58A8\u9999\u5FC3\u8BED.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,32 +99,12 @@
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\models\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\models\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\data\\diarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\data\\diarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u6E38\u620F\u8BC4\u8BBA.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u8F6E\u64AD\u56FE.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u53D1\u9001\u8BC4\u8BBA.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u53D1\u9001\u8BC4\u8BBA.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -129,10 +153,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\models\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\models\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -147,79 +167,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ouse.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T04:39:17.703Z",
+              "Title": "waifu.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+              "RelativeToolTip": "MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T15:05:30.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2024-12-1.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:32:55.087Z",
+              "Title": "autoload.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+              "RelativeToolTip": "MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T15:01:37.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "\u4EBA\u5458\u4ECB\u7ECD.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "DiaryLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T13:47:31.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:33:58.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "\u6E38\u620F\u4E13\u680F.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "\u58A8\u9999\u5FC3\u8BED.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:47:57.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "\u5728\u7EBF\u6E38\u73A9.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T13:30:32.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T08:55:08.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "\u81F4\u8C22\u7ED3\u8BED.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T13:47:35.252Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Program.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:29:49.398Z",
               "EditorCaption": ""
             },
             {
@@ -238,32 +243,189 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\App.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T13:15:10.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Settings.cs",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\Settings.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Settings.cs",
               "RelativeToolTip": "MudBlazorWebApp\\Models\\Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T13:43:35.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T13:43:35.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "\u58A8\u9999\u5FC3\u8BED.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u58A8\u9999\u5FC3\u8BED.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "2024-12-2.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:55:08.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T08:51:42.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Diary.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Diary.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\Diary.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Diary.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Models\\Diary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:13:59.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2024-12-4.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T09:20:01.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "\u4EBA\u5458\u4ECB\u7ECD.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u4EBA\u5458\u4ECB\u7ECD.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:47:31.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bibibi.jpg",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\\u4EBA\u5458\\bibibi.jpg",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\Images\\\u4EBA\u5458\\bibibi.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\\u4EBA\u5458\\bibibi.jpg",
+              "RelativeToolTip": "MudBlazorWebApp\\wwwroot\\Images\\\u4EBA\u5458\\bibibi.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-03T09:51:11.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "2024-12-1.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:32:55.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_imports.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\_imports.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\_imports.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\_imports.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\_imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T03:45:22.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiaryData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\DiaryData.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Data\\DiaryData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\DiaryData.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Data\\DiaryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:14:06.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ouse.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\Ouse.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T04:39:17.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "\u5728\u7EBF\u6E38\u73A9.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:30:32.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Misc.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Misc.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\Misc.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Misc.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Models\\Misc.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:29:14.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\u81F4\u8C22\u7ED3\u8BED.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u81F4\u8C22\u7ED3\u8BED.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:47:35.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u6E38\u620F\u4E13\u680F.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:47:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
@@ -271,12 +433,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T03:39:57.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:39:57.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
@@ -284,12 +445,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T13:14:21.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:14:21.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
@@ -297,38 +457,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T15:58:30.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T15:58:30.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Diary.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Diary.cs",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\Diary.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Diary.cs",
-              "RelativeToolTip": "MudBlazorWebApp\\Models\\Diary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:13:59.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DiaryData.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\DiaryData.cs",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Data\\DiaryData.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\DiaryData.cs",
-              "RelativeToolTip": "MudBlazorWebApp\\Data\\DiaryData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:14:06.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\_Imports.razor",
@@ -336,25 +469,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T13:14:47.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:14:47.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T13:15:10.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Routes.razor",
@@ -362,38 +481,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\Routes.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:46:47.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T08:46:47.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DiaryLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T16:33:58.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_imports.razor",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\_imports.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\_imports.razor",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\_imports.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\_imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T03:45:22.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "\u6E38\u620F\u8BC4\u8BBA.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u8BC4\u8BBA.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u8BC4\u8BBA.razor",
@@ -401,12 +493,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u8BC4\u8BBA.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T13:31:26.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:31:26.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "\u6E38\u620F\u8F6E\u64AD\u56FE.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u8F6E\u64AD\u56FE.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u8F6E\u64AD\u56FE.razor",
@@ -414,12 +505,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u8F6E\u64AD\u56FE.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T03:40:23.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:40:23.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "\u4EBA\u5458.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u4EBA\u5458.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u4EBA\u5458.razor",
@@ -432,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "\u8BC4\u8BBA.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u8BC4\u8BBA.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u8BC4\u8BBA.razor",
@@ -440,12 +530,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u8BC4\u8BBA.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:54:51.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T08:54:51.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "\u8F6E\u64AD\u56FE.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u8F6E\u64AD\u56FE.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u8F6E\u64AD\u56FE.razor",
@@ -453,12 +542,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u8F6E\u64AD\u56FE.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T03:40:16.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:40:16.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "\u6E38\u620F\u53D1\u9001\u8BC4\u8BBA.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u53D1\u9001\u8BC4\u8BBA.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u53D1\u9001\u8BC4\u8BBA.razor",
@@ -466,24 +554,11 @@
               "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u6E38\u620F\u53D1\u9001\u8BC4\u8BBA.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T13:25:38.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:25:38.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Program.cs",
-              "RelativeToolTip": "MudBlazorWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T13:29:49.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "\u53D1\u9001\u8BC4\u8BBA.razor",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u53D1\u9001\u8BC4\u8BBA.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u53D1\u9001\u8BC4\u8BBA.razor",
@@ -495,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Game.cs",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\Game.cs",
@@ -503,11 +578,12 @@
               "RelativeToolTip": "MudBlazorWebApp\\Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T13:55:36.695Z"
+              "WhenOpened": "2024-12-02T13:55:36.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "GamePageModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\GamePageModel.cs",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\GamePageModel.cs",
@@ -519,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "test.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\JS\\test.js",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\JS\\test.js",
@@ -531,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "CommentModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\CommentModel.cs",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\CommentModel.cs",
@@ -539,11 +615,12 @@
               "RelativeToolTip": "MudBlazorWebApp\\Models\\CommentModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:54:56.48Z"
+              "WhenOpened": "2024-12-02T14:54:56.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\GameData.cs",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Data\\GameData.cs",
@@ -552,18 +629,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T13:06:05.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Misc.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Misc.cs",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\Misc.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Misc.cs",
-              "RelativeToolTip": "MudBlazorWebApp\\Models\\Misc.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAwGEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:29:14.095Z"
             }
           ]
         }

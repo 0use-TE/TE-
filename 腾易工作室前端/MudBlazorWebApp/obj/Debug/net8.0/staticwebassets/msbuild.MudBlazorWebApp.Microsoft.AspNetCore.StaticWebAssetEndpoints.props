@@ -12,6 +12,78 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8kNQh\u002BLErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15086"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u00228kNQh\u002BLErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 16:15:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/1.6043361jdq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6043361jdq"},{"Name":"integrity","Value":"sha256-\u002Bj1uZS0CwK3P\u002BG8OKUI6JQfrZH1njE9WmpAGUmHfpyU="},{"Name":"label","Value":"_content/MudBlazorWebApp/Images/Diary/2024/12/4/1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1222603"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002Bj1uZS0CwK3P\u002BG8OKUI6JQfrZH1njE9WmpAGUmHfpyU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002Bj1uZS0CwK3P\u002BG8OKUI6JQfrZH1njE9WmpAGUmHfpyU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1222603"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002Bj1uZS0CwK3P\u002BG8OKUI6JQfrZH1njE9WmpAGUmHfpyU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hGl7wR9WtKuaSrrccQ\u002BTdJpBEBXhUEVr\u002Bu7fPsE/4Nc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2981382"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hGl7wR9WtKuaSrrccQ\u002BTdJpBEBXhUEVr\u002Bu7fPsE/4Nc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/2.kqwfj8j89p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kqwfj8j89p"},{"Name":"integrity","Value":"sha256-hGl7wR9WtKuaSrrccQ\u002BTdJpBEBXhUEVr\u002Bu7fPsE/4Nc="},{"Name":"label","Value":"_content/MudBlazorWebApp/Images/Diary/2024/12/4/2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2981382"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hGl7wR9WtKuaSrrccQ\u002BTdJpBEBXhUEVr\u002Bu7fPsE/4Nc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/3.f559kkddgk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f559kkddgk"},{"Name":"integrity","Value":"sha256-rQnXxpF/DAq0APNrPrczsRgouF\u002BT6NpjRKQuBJd396g="},{"Name":"label","Value":"_content/MudBlazorWebApp/Images/Diary/2024/12/4/3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1754507"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rQnXxpF/DAq0APNrPrczsRgouF\u002BT6NpjRKQuBJd396g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rQnXxpF/DAq0APNrPrczsRgouF\u002BT6NpjRKQuBJd396g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1754507"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rQnXxpF/DAq0APNrPrczsRgouF\u002BT6NpjRKQuBJd396g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/4.iw95xml713.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iw95xml713"},{"Name":"integrity","Value":"sha256-YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok="},{"Name":"label","Value":"_content/MudBlazorWebApp/Images/Diary/2024/12/4/4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1768255"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1768255"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4129921"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/5.w71lrswu75.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w71lrswu75"},{"Name":"integrity","Value":"sha256-bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ="},{"Name":"label","Value":"_content/MudBlazorWebApp/Images/Diary/2024/12/4/5.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4129921"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/6.g75cwqc7rm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g75cwqc7rm"},{"Name":"integrity","Value":"sha256-pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o="},{"Name":"label","Value":"_content/MudBlazorWebApp/Images/Diary/2024/12/4/6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1303646"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Diary/2024/12/4/6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Diary\2024\12\4\6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1303646"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 09:45:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/Images/Game/地牢迷途/1.9jgx96d1b5.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Game\地牢迷途\1.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -227,6 +299,270 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-d7EUAk1nz/L8fXjZnqSg3/BWcxSOpw8Joq6daGVh3Kg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"394"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022d7EUAk1nz/L8fXjZnqSg3/BWcxSOpw8Joq6daGVh3Kg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 14:27:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/.ejehic9608.gitignore">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\.gitignore'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ejehic9608"},{"Name":"integrity","Value":"sha256-2nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/.gitignore"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"43"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00222nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/.gitignore">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\.gitignore'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"43"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00222nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/assets/screenshot-1.4dj74agzh9.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\assets\screenshot-1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4dj74agzh9"},{"Name":"integrity","Value":"sha256-yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/assets/screenshot-1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48951"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/assets/screenshot-1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\assets\screenshot-1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48951"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/assets/screenshot-2.3b6zte9t0p.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\assets\screenshot-2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3b6zte9t0p"},{"Name":"integrity","Value":"sha256-rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ\u002BPazz5cY="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/assets/screenshot-2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"328204"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ\u002BPazz5cY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/assets/screenshot-2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\assets\screenshot-2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ\u002BPazz5cY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"328204"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ\u002BPazz5cY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/assets/screenshot-3.bfe33c91z6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\assets\screenshot-3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bfe33c91z6"},{"Name":"integrity","Value":"sha256-x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/assets/screenshot-3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"247854"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/assets/screenshot-3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\assets\screenshot-3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"247854"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/autoload.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\autoload.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IO0X6bcNE1lGFwicUTQyuZw\u002B0kd\u002BIGPP8x0\u002BSNxrVLk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2041"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IO0X6bcNE1lGFwicUTQyuZw\u002B0kd\u002BIGPP8x0\u002BSNxrVLk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 15:10:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/autoload.kfzvs3ii0t.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\autoload.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kfzvs3ii0t"},{"Name":"integrity","Value":"sha256-IO0X6bcNE1lGFwicUTQyuZw\u002B0kd\u002BIGPP8x0\u002BSNxrVLk="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/autoload.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2041"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IO0X6bcNE1lGFwicUTQyuZw\u002B0kd\u002BIGPP8x0\u002BSNxrVLk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 15:10:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/demo/demo.d4uvnmwjr6.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\demo\demo.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d4uvnmwjr6"},{"Name":"integrity","Value":"sha256-PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/demo/demo.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1508"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/demo/demo.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\demo\demo.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1508"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/demo/login.cs0pp1wow6.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\demo\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cs0pp1wow6"},{"Name":"integrity","Value":"sha256-xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/demo/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6745"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/demo/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\demo\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6745"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/LICENSE">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IwGE9guuL\u002BryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"35823"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022IwGE9guuL\u002BryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/LICENSE.1rpetu5fez">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1rpetu5fez"},{"Name":"integrity","Value":"sha256-IwGE9guuL\u002BryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/LICENSE"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35823"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022IwGE9guuL\u002BryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/live2d.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\live2d.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"151454"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/live2d.min.q7jjki4ypd.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\live2d.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q7jjki4ypd"},{"Name":"integrity","Value":"sha256-BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/live2d.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"151454"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/package.2p616zk79b.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\package.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2p616zk79b"},{"Name":"integrity","Value":"sha256-Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/package.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"950"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/package.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\package.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"950"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/README.en.ltnrq99hxh.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\README.en.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ltnrq99hxh"},{"Name":"integrity","Value":"sha256-p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/README.en.md"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11359"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/README.en.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\README.en.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11359"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/README.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\README.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W54WjjKDXFJa\u002B1wRwclBV0N/tN/f7rV/B897jVHdV6o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10424"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022W54WjjKDXFJa\u002B1wRwclBV0N/tN/f7rV/B897jVHdV6o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/README.rsd281ofma.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\README.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rsd281ofma"},{"Name":"integrity","Value":"sha256-W54WjjKDXFJa\u002B1wRwclBV0N/tN/f7rV/B897jVHdV6o="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/README.md"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10424"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022W54WjjKDXFJa\u002B1wRwclBV0N/tN/f7rV/B897jVHdV6o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/rollup.config.31cucm39n4.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\rollup.config.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"31cucm39n4"},{"Name":"integrity","Value":"sha256-mVMIRX3O\u002BLajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/rollup.config.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"919"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mVMIRX3O\u002BLajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/rollup.config.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\rollup.config.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mVMIRX3O\u002BLajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"919"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mVMIRX3O\u002BLajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/index.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7199"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/index.vxem1x4x0w.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vxem1x4x0w"},{"Name":"integrity","Value":"sha256-IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/src/index.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7199"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/message.1a7b0t698t.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\message.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1a7b0t698t"},{"Name":"integrity","Value":"sha256-mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/src/message.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"744"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/message.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\message.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"744"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/model.hmo6cxvwoh.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\model.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hmo6cxvwoh"},{"Name":"integrity","Value":"sha256-KWK\u002BQ4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/src/model.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3128"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KWK\u002BQ4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/model.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\model.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KWK\u002BQ4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3128"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KWK\u002BQ4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/tools.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\tools.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4OHZ/OqA/XAvcetakAIRpT8gs09N\u002BbAP/1tS4kGhZss="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2925"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224OHZ/OqA/XAvcetakAIRpT8gs09N\u002BbAP/1tS4kGhZss=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/tools.o6nupihjt6.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\tools.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o6nupihjt6"},{"Name":"integrity","Value":"sha256-4OHZ/OqA/XAvcetakAIRpT8gs09N\u002BbAP/1tS4kGhZss="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/src/tools.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2925"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224OHZ/OqA/XAvcetakAIRpT8gs09N\u002BbAP/1tS4kGhZss=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/utils.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\utils.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-atKqoy5ZK6eqQ03XoMVInaWWv\u002Bt6Wllq/6bCpOgEiFM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"155"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022atKqoy5ZK6eqQ03XoMVInaWWv\u002Bt6Wllq/6bCpOgEiFM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/utils.ytmg6wtthu.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\utils.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ytmg6wtthu"},{"Name":"integrity","Value":"sha256-atKqoy5ZK6eqQ03XoMVInaWWv\u002Bt6Wllq/6bCpOgEiFM="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/src/utils.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022atKqoy5ZK6eqQ03XoMVInaWWv\u002Bt6Wllq/6bCpOgEiFM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/waifu-tips.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\waifu-tips.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"73"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/src/waifu-tips.oiumi21p08.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\src\waifu-tips.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oiumi21p08"},{"Name":"integrity","Value":"sha256-ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/src/waifu-tips.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/waifu-tips.6l2u7y1jfo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\waifu-tips.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6l2u7y1jfo"},{"Name":"integrity","Value":"sha256-Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/waifu-tips.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11817"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/waifu-tips.jg0ys753f4.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\waifu-tips.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jg0ys753f4"},{"Name":"integrity","Value":"sha256-LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/waifu-tips.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11803"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/waifu-tips.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\waifu-tips.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11817"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/waifu-tips.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\waifu-tips.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11803"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 14:30:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/waifu.aqqr4jindh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\waifu.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aqqr4jindh"},{"Name":"integrity","Value":"sha256-7q\u002BzetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/waifu.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5247"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227q\u002BzetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 15:09:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/waifu.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\waifu.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7q\u002BzetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5247"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227q\u002BzetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 15:09:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/在线游玩/数字华容道Web/Build/数字华容道Web.data.8epf2kmlyj.unityweb">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\在线游玩\数字华容道Web\Build\数字华容道Web.data.unityweb'))</AssetFile>

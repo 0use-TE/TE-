@@ -16,11 +16,17 @@
         <NavMenu />
     </MudDrawer>
     <MudMainContent Class="mt-16 pa-4">
-        @*日记内容*@
+        <MudContainer>
+                <MudText Align="Align.Center"  Typo="Typo.h5">@selectedDiary.Title</MudText>
+            <MudStack Row Spacing="2" Justify="Justify.FlexEnd">
+                <MudText>@selectedDiary.WeatherType</MudText>
+                <MudText>@selectedDiary.DiaryType</MudText>
+                <MudText>@selectedDiary.DateTime.Year-@selectedDiary.DateTime.Month-@selectedDiary.DateTime.Day</MudText>
+            </MudStack>
+        </MudContainer>
         @Body
     </MudMainContent>
 </MudLayout>
-
 
 <div id="blazor-error-ui">
     An unhandled error has occurred.
@@ -29,13 +35,14 @@
 </div>
 
 @code {
-    private bool _drawerOpen = false;
+    private bool _drawerOpen = true;
     private bool _isDarkMode;
     private MudTheme? _theme = null;
+    private Diary selectedDiary = null!;
     protected override void OnInitialized()
     {
         base.OnInitialized();
-
+        selectedDiary = Settings.SelectedDiary;
         _theme = new()
             {
                 PaletteLight = _lightPalette,

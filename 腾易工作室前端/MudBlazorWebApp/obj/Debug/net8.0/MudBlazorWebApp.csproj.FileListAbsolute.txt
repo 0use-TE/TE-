@@ -317,7 +317,6 @@ C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlaz
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MudBlazorWebApp.props
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MudBlazorWebApp.props
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\MudBlazo.FDED2A09.Up2Date
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\MudBlazorWebApp.dll
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\refint\MudBlazorWebApp.dll
@@ -365,3 +364,4 @@ D:\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\refint\MudBla
 D:\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\MudBlazorWebApp.pdb
 D:\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\MudBlazorWebApp.genruntimeconfig.cache
 D:\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\ref\MudBlazorWebApp.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

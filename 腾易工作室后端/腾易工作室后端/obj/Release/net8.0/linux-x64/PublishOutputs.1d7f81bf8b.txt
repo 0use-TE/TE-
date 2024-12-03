@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.runtimeconfig.json
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.pdb
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\MySqlConnector.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Release\net8.0\linux-x64\PubTmp\Out\腾易工作室后端.deps.json

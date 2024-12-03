@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "ihtTGtbWLhxt4C2xvH6eI3oG0HlQPqI8ckNyL0LHUOQ=",
+  "Hash": "MA6gNnzZ548rwK6ytqhIXEOgpgKwQp+rpNYSrVfv+EQ=",
   "Source": "腾易工作室后端",
   "BasePath": "_content/腾易工作室后端",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

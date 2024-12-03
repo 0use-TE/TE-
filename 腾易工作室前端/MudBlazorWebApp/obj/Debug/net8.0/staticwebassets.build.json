@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "etB487BET2w0BuskEg1LkEcgg1bsRreNyhjHxs3yHF4=",
+  "Hash": "JfmH4ejl/yViRjyoFbYGkbE6n2YFeVpKobvP816wHrE=",
   "Source": "MudBlazorWebApp",
   "BasePath": "_content/MudBlazorWebApp",
   "Mode": "Default",
@@ -78,6 +78,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6043361jdq",
+      "Integrity": "+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kqwfj8j89p",
+      "Integrity": "hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f559kkddgk",
+      "Integrity": "rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iw95xml713",
+      "Integrity": "YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w71lrswu75",
+      "Integrity": "bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g75cwqc7rm",
+      "Integrity": "pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg"
     },
     {
       "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\1.png",
@@ -456,6 +582,468 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\test.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\.gitignore",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/#[.{fingerprint}]?.gitignore",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ejehic9608",
+      "Integrity": "2nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\.gitignore"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-1.png",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/assets/screenshot-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4dj74agzh9",
+      "Integrity": "yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\assets\\screenshot-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-2.png",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/assets/screenshot-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3b6zte9t0p",
+      "Integrity": "rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\assets\\screenshot-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-3.png",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/assets/screenshot-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfe33c91z6",
+      "Integrity": "x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\assets\\screenshot-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/autoload#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfzvs3ii0t",
+      "Integrity": "IO0X6bcNE1lGFwicUTQyuZw+0kd+IGPP8x0+SNxrVLk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\autoload.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\demo.html",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/demo/demo#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4uvnmwjr6",
+      "Integrity": "PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\demo\\demo.html"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\login.html",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/demo/login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cs0pp1wow6",
+      "Integrity": "xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\demo\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\LICENSE",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1rpetu5fez",
+      "Integrity": "IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\live2d.min.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/live2d.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q7jjki4ypd",
+      "Integrity": "BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\live2d.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\package.json",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/package#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2p616zk79b",
+      "Integrity": "Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\package.json"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.en.md",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/README.en#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ltnrq99hxh",
+      "Integrity": "p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\README.en.md"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.md",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/README#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rsd281ofma",
+      "Integrity": "W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\rollup.config.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/rollup.config#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "31cucm39n4",
+      "Integrity": "mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\rollup.config.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\index.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/src/index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vxem1x4x0w",
+      "Integrity": "IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\message.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/src/message#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1a7b0t698t",
+      "Integrity": "mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\message.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\model.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/src/model#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmo6cxvwoh",
+      "Integrity": "KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\model.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\tools.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/src/tools#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o6nupihjt6",
+      "Integrity": "4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\tools.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\utils.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/src/utils#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ytmg6wtthu",
+      "Integrity": "atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\utils.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\waifu-tips.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/src/waifu-tips#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oiumi21p08",
+      "Integrity": "ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\waifu-tips.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/waifu#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aqqr4jindh",
+      "Integrity": "7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu.css"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.js",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/waifu-tips#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6l2u7y1jfo",
+      "Integrity": "Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu-tips.js"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.json",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/waifu-tips#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jg0ys753f4",
+      "Integrity": "LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu-tips.json"
     },
     {
       "Identity": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb",
@@ -1326,6 +1914,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/1.6043361jdq.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6043361jdq"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/1.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/2.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2981382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/2.kqwfj8j89p.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2981382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqwfj8j89p"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/3.f559kkddgk.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1754507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f559kkddgk"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/3.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1754507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/4.iw95xml713.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iw95xml713"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/4.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/5.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4129921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/5.w71lrswu75.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4129921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w71lrswu75"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/6.g75cwqc7rm.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g75cwqc7rm"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/6.jpg",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o="
         }
       ]
     },
@@ -2802,6 +3882,1810 @@
         {
           "Name": "integrity",
           "Value": "sha256-d7EUAk1nz/L8fXjZnqSg3/BWcxSOpw8Joq6daGVh3Kg="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/.ejehic9608.gitignore",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\.gitignore",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ejehic9608"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/.gitignore"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/.gitignore",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\.gitignore",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2nXGZ2yugI1gLvbraUrsS3cQM3sQpnKgAAb5xFJdEjs="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-1.4dj74agzh9.png",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dj74agzh9"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/assets/screenshot-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-1.png",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-2.3b6zte9t0p.png",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3b6zte9t0p"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/assets/screenshot-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-2.png",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-3.bfe33c91z6.png",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfe33c91z6"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/assets/screenshot-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-3.png",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/autoload.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IO0X6bcNE1lGFwicUTQyuZw+0kd+IGPP8x0+SNxrVLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IO0X6bcNE1lGFwicUTQyuZw+0kd+IGPP8x0+SNxrVLk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/autoload.kfzvs3ii0t.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IO0X6bcNE1lGFwicUTQyuZw+0kd+IGPP8x0+SNxrVLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfzvs3ii0t"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/autoload.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IO0X6bcNE1lGFwicUTQyuZw+0kd+IGPP8x0+SNxrVLk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/demo.d4uvnmwjr6.html",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\demo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4uvnmwjr6"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/demo/demo.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/demo.html",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\demo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/login.cs0pp1wow6.html",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cs0pp1wow6"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/demo/login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/login.html",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/LICENSE",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/LICENSE.1rpetu5fez",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1rpetu5fez"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/live2d.min.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\live2d.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/live2d.min.q7jjki4ypd.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\live2d.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q7jjki4ypd"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/live2d.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/package.2p616zk79b.json",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2p616zk79b"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/package.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/package.json",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.en.ltnrq99hxh.md",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.en.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ltnrq99hxh"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/README.en.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.en.md",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.en.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.md",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.rsd281ofma.md",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rsd281ofma"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/rollup.config.31cucm39n4.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\rollup.config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31cucm39n4"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/rollup.config.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/rollup.config.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\rollup.config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/index.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/index.vxem1x4x0w.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxem1x4x0w"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/message.1a7b0t698t.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\message.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1a7b0t698t"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/message.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/message.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\message.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/model.hmo6cxvwoh.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\model.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmo6cxvwoh"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/model.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/model.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\model.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/tools.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\tools.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/tools.o6nupihjt6.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\tools.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6nupihjt6"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/tools.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/utils.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/utils.ytmg6wtthu.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ytmg6wtthu"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/utils.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/waifu-tips.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/waifu-tips.oiumi21p08.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oiumi21p08"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/waifu-tips.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu.aqqr4jindh.css",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aqqr4jindh"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/waifu.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu.css",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.6l2u7y1jfo.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l2u7y1jfo"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/waifu-tips.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.jg0ys753f4.json",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jg0ys753f4"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/waifu-tips.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.json",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 14:30:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI="
         }
       ]
     },

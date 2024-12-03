@@ -2,9 +2,13 @@
 @using MudBlazor
 @using System.Linq
 @inject NavigationManager NavigationManager
-<MudDateRangePicker @bind-DateRange="selectedDateRange" Label="选择日期范围" />
+<MudStack>
+    <MudDatePicker @bind-Date="selectedDateRange.Start" Label="请选择起始日期"></MudDatePicker>
+    <MudDatePicker @bind-Date="selectedDateRange.End" Label="请选择结束日期"></MudDatePicker>
+    <MudButton OnClick="FilterDiaries">筛选日记</MudButton>
+</MudStack>
 
-<MudButton OnClick="FilterDiaries">筛选日记</MudButton>
+
 
 <MudList T="Diary">
     @if(filteredDiaries!=null&&filteredDiaries.Count==0)
@@ -22,7 +26,7 @@
 </MudList>
 
 @code {
-    private DateRange? selectedDateRange { get; set; }
+    private DateRange? selectedDateRange { get; set; } = new DateRange();
     private void NavTo(Diary diary)
     {
         string url = diary.URL;

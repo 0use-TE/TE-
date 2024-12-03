@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\GitPackage\TEStudioPackage\TEStudioEnd</_PublishTargetUrl>
+    <History>True|2024-12-03T05:14:21.5880568Z||;True|2024-12-03T13:11:47.8151539+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=106.54.7.121%3bDatabase=MySqlTest%3bUser=ubuntu%3bPassword=%4080231314Ws%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

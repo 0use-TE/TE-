@@ -445,7 +445,6 @@ C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易�
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.腾易工作室后端.props
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.腾易工作室后端.props
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\腾易工作室后端.csproj.Up2Date
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\腾易工作室后端.dll
 C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\refint\腾易工作室后端.dll
@@ -557,3 +556,4 @@ D:\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\refint\
 D:\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\腾易工作室后端.pdb
 D:\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\腾易工作室后端.genruntimeconfig.cache
 D:\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\ref\腾易工作室后端.dll
+C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室后端\腾易工作室后端\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
