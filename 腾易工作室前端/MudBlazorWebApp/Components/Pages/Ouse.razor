@@ -1,53 +1,64 @@
 ﻿@page "/Ouse"
-
-
 @using MudBlazor
 @using System.Linq
-
+@inject NavigationManager NavigationManager
 <MudDateRangePicker @bind-DateRange="selectedDateRange" Label="选择日期范围" />
 
 <MudButton OnClick="FilterDiaries">筛选日记</MudButton>
 
-<MudList T="DiaryEntry" >
-    @foreach (var diary in filteredDiaries)
+<MudList T="Diary">
+    @if(filteredDiaries!=null&&filteredDiaries.Count==0)
     {
-        <MudListItem>
-            <MudText Typo="Typo.body1">@diary.Date.ToString("yyyy-MM-dd")</MudText>
-            <MudText Typo="Typo.body2">@diary.Content</MudText>
-        </MudListItem>
+        <MudText>该选择内暂未有内容捏！</MudText>
     }
+    else 
+        foreach (var diary in filteredDiaries)
+        {
+            <MudListItem OnClick="()=>NavTo(diary)">
+                <MudText Typo="Typo.body1">@diary.DateTime.ToString("yyyy-MM-dd")</MudText>
+                <MudText Typo="Typo.body2">@diary.Title</MudText>
+            </MudListItem>
+        }
 </MudList>
 
 @code {
-    private DateRange selectedDateRange { get; set; }
-    private List<DiaryEntry> allDiaries = new List<DiaryEntry>
+    private DateRange? selectedDateRange { get; set; }
+    private void NavTo(Diary diary)
     {
-        new DiaryEntry { Date = new DateTime(2024, 11, 1), Content = "今天学习了MudBlazor！" },
-        new DiaryEntry { Date = new DateTime(2024, 11, 10), Content = "玩了一个很棒的游戏。" },
-        new DiaryEntry { Date = new DateTime(2024, 11, 15), Content = "做了一个项目的商业规划书。" }
-    };
-    private List<DiaryEntry> filteredDiaries;
-
-    protected override void OnInitialized()
-    {
-        filteredDiaries = allDiaries; // 默认显示所有日记
+        string url = diary.URL;
+        Settings.SelectedDiary = diary;
+        NavigationManager.NavigateTo($"Diary/{url}");
     }
 
+
+
+    private List<Diary> filteredDiaries=null!;
+
+    protected override Task OnInitializedAsync()
+    {
+        if (Settings.DateRange != null)
+        {
+            selectedDateRange = Settings.DateRange;
+        }
+        filteredDiaries = DiaryData.AllDiaries;
+        return base.OnInitializedAsync();
+    }
+
+    // 点击筛选按钮时，过滤日记
     private void FilterDiaries()
     {
+        // 将新的日期范围保存到静态类 Settings 中
+        Settings.DateRange = selectedDateRange;
+        // 根据选择的日期范围来过滤日记
         if (selectedDateRange.Start.HasValue && selectedDateRange.End.HasValue)
         {
-            filteredDiaries = allDiaries.Where(d => d.Date >= selectedDateRange.Start.Value && d.Date <= selectedDateRange.End.Value).ToList();
+            filteredDiaries = DiaryData.AllDiaries
+                .Where(d => d.DateTime >= selectedDateRange.Start.Value && d.DateTime <= selectedDateRange.End.Value)
+                .ToList();
         }
         else
         {
-            filteredDiaries = allDiaries; // 如果没有选择日期范围，则显示所有日记
+            filteredDiaries = DiaryData.AllDiaries; // 如果没有选择日期范围，则显示所有日记
         }
-    }
-
-    public class DiaryEntry
-    {
-        public DateTime Date { get; set; }
-        public string Content { get; set; }
     }
 }

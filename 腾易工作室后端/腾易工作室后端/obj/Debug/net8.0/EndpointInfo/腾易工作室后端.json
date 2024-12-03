@@ -123,14 +123,22 @@
         }
       }
     },
-    "/api/Comment/RandomGetGameComment": {
+    "/api/Comment/GetGameComments": {
       "get": {
         "tags": [
           "Comment"
         ],
         "parameters": [
           {
-            "name": "counts",
+            "name": "pageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "page",
             "in": "query",
             "schema": {
               "type": "integer",

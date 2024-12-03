@@ -17,7 +17,7 @@ namespace 腾易工作室后端.Controllers
         [HttpPost]
         public void PostComment(CommentModel comment)
         {
-			Console.WriteLine("接受到了！");
+
             _db.Add(comment);
             _db.SaveChanges();
 		}

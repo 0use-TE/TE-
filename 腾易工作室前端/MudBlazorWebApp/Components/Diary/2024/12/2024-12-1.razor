@@ -1,15 +1,10 @@
-﻿@page "/Diary"
-@using MudBlazorWebApp.Components.Layout
-@layout DiaryLayout
+﻿@page "/Diary/2024-12-1"
+<MudText>@selectedDiary.Title</MudText>
 
-<MudText>为什么错误</MudText>
 @code {
-    [Parameter] public Guid Guid { get; set; }  // 接受来自 URL 的 Guid
-
-    private Diary? selectedDiary;
-
+    private Diary selectedDiary=null!;
     protected override void OnInitialized()
     {
-        selectedDiary = DiaryData.diary2024Y12M.FirstOrDefault(d => d.Guid == Guid);
+        selectedDiary = Settings.SelectedDiary;
     }
 }
