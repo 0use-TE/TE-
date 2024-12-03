@@ -9,55 +9,23 @@
   <ItemGroup>
     <Compile Remove="Components\Diary\2025\**" />
     <Compile Remove="wwwroot\live2d-widget-master\**" />
+    <Compile Remove="wwwroot\live2d-widget\.git\**" />
     <Compile Remove="wwwroot\Live2D\**" />
     <Content Remove="Components\Diary\2025\**" />
     <Content Remove="wwwroot\live2d-widget-master\**" />
+    <Content Remove="wwwroot\live2d-widget\.git\**" />
     <Content Remove="wwwroot\Live2D\**" />
     <EmbeddedResource Remove="Components\Diary\2025\**" />
     <EmbeddedResource Remove="wwwroot\live2d-widget-master\**" />
+    <EmbeddedResource Remove="wwwroot\live2d-widget\.git\**" />
     <EmbeddedResource Remove="wwwroot\Live2D\**" />
     <None Remove="Components\Diary\2025\**" />
     <None Remove="wwwroot\live2d-widget-master\**" />
+    <None Remove="wwwroot\live2d-widget\.git\**" />
     <None Remove="wwwroot\Live2D\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\live2d-widget\.git\config" />
-    <None Include="wwwroot\live2d-widget\.git\description" />
-    <None Include="wwwroot\live2d-widget\.git\HEAD" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\applypatch-msg.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\commit-msg.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\fsmonitor-watchman.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\post-update.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\pre-applypatch.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\pre-commit.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\pre-merge-commit.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\pre-push.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\pre-rebase.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\pre-receive.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\prepare-commit-msg.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\push-to-checkout.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\sendemail-validate.sample" />
-    <None Include="wwwroot\live2d-widget\.git\hooks\update.sample" />
-    <None Include="wwwroot\live2d-widget\.git\index" />
-    <None Include="wwwroot\live2d-widget\.git\info\exclude" />
-    <None Include="wwwroot\live2d-widget\.git\logs\HEAD" />
-    <None Include="wwwroot\live2d-widget\.git\logs\refs\heads\master" />
-    <None Include="wwwroot\live2d-widget\.git\logs\refs\remotes\origin\HEAD" />
-    <None Include="wwwroot\live2d-widget\.git\objects\pack\pack-52e09ca78db446eed4911f17187a24a9a1ffc2f8.idx" />
-    <None Include="wwwroot\live2d-widget\.git\objects\pack\pack-52e09ca78db446eed4911f17187a24a9a1ffc2f8.pack" />
-    <None Include="wwwroot\live2d-widget\.git\objects\pack\pack-52e09ca78db446eed4911f17187a24a9a1ffc2f8.rev" />
-    <None Include="wwwroot\live2d-widget\.git\packed-refs" />
-    <None Include="wwwroot\live2d-widget\.git\refs\heads\master" />
-    <None Include="wwwroot\live2d-widget\.git\refs\remotes\origin\HEAD" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="MudBlazor" Version="7.15.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\live2d-widget\.git\objects\info\" />
-    <Folder Include="wwwroot\live2d-widget\.git\refs\tags\" />
   </ItemGroup>
 </Project>
