@@ -14,6 +14,17 @@ builder.Services.AddSingleton<GameData>();
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+//Add Cors
+builder.Services.AddCors(options =>
+{
+	options.AddPolicy("AllowAll", builder =>
+		builder.AllowAnyOrigin()
+			   .AllowAnyMethod()
+			   .AllowAnyHeader());
+});
+
+
 builder.WebHost.ConfigureKestrel(serverOptions =>
 {
     serverOptions.Listen(IPAddress.Any, 80); // 监听所有网络接口上的80端口  
@@ -30,6 +41,7 @@ else
 {
 	Settings.URL = app.Configuration["DevelopmentURL"] ?? "http://localhost:25000/api"; // 默认值
 }
+app.UseCors("AllowAll");
 app.UseStaticFiles();
 app.UseAntiforgery();
 

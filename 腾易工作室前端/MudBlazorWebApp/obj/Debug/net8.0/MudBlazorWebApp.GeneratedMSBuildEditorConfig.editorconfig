@@ -12,115 +12,117 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MudBlazorWebApp
 build_property.RootNamespace = MudBlazorWebApp
-build_property.ProjectDir = D:\TEStudio\腾易工作室前端\MudBlazorWebApp\
+build_property.ProjectDir = C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\TEStudio\腾易工作室前端\MudBlazorWebApp
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/App.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/2024/12/2024-12-1.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/2024/12/2024-12-1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFyeVwyMDI0XDEyXDIwMjQtMTItMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/2024/12/2024-12-2.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/2024/12/2024-12-2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFyeVwyMDI0XDEyXDIwMjQtMTItMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/2024/12/2024-12-4.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/2024/12/2024-12-4.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFyeVwyMDI0XDEyXDIwMjQtMTItNC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/_imports.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Diary/_imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFyeVxfaW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Layout/DiaryLayout.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Layout/DiaryLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRGlhcnlMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Layout/MainLayout.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Layout/NavMenu.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/Error.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/Ouse.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/Ouse.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPdXNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/人员介绍.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/人员介绍.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zkurrlkZjku4vnu40ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/在线游玩.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/在线游玩.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zlnKjnur/muLjnjqkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/墨香心语.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/墨香心语.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zloqjpppnlv4Por60ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/工作室介绍.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/工作室介绍.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zlt6XkvZzlrqTku4vnu40ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/游戏专栏.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/游戏专栏.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zmuLjmiI/kuJPmoI8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/致谢结语.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Pages/致谢结语.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1zoh7TosKLnu5Por60ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Routes.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/_Imports.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/人员.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/人员.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5Lq65ZGYLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/发送评论.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/发送评论.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5Y+R6YCB6K+E6K66LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiPLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏发送评论.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏发送评论.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiP5Y+R6YCB6K+E6K66LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏评论.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏评论.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiP6K+E6K66LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏轮播图.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/游戏轮播图.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc5ri45oiP6L2u5pKt5Zu+LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/评论.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/评论.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc6K+E6K66LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/轮播图.razor]
+[C:/Users/Administrator/Desktop/GitProject/TEStudio/腾易工作室前端/MudBlazorWebApp/Components/组件/轮播图.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1znu4Tku7Zc6L2u5pKt5Zu+LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
