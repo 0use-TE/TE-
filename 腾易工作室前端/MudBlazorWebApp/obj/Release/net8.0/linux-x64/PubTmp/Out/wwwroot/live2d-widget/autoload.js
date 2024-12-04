@@ -1,5 +1,6 @@
 // live2d_path 参数建议使用绝对路径
-const live2d_path = "http://127.0.0.1/live2d-widget/";
+//const live2d_path = "http://127.0.0.1/live2d-widget/";
+const live2d_path = "http://tegamecompany.com/live2d-widget/";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法

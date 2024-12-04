@@ -336,17 +336,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"247854"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 02:27:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/autoload.902i6zh734.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\autoload.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"902i6zh734"},{"Name":"integrity","Value":"sha256-qdwRNdAY4Rs1\u002BQwB4/l7/UIXbTmHWOWKSP3srX/HplE="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/autoload.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2153"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qdwRNdAY4Rs1\u002BQwB4/l7/UIXbTmHWOWKSP3srX/HplE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 04:16:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/autoload.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\autoload.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2087"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 03:46:17 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/autoload.nrrga0hq11.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\autoload.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nrrga0hq11"},{"Name":"integrity","Value":"sha256-bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8="},{"Name":"label","Value":"_content/MudBlazorWebApp/live2d-widget/autoload.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2087"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 03:46:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qdwRNdAY4Rs1\u002BQwB4/l7/UIXbTmHWOWKSP3srX/HplE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2153"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qdwRNdAY4Rs1\u002BQwB4/l7/UIXbTmHWOWKSP3srX/HplE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 04:16:54 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MudBlazorWebApp/live2d-widget/demo/demo.d4uvnmwjr6.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\demo\demo.html'))</AssetFile>

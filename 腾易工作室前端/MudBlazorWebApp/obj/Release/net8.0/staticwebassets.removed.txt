@@ -1,1 +1,0 @@
-C:\Users\Administrator\Desktop\GitProject\TEStudio\腾易工作室前端\MudBlazorWebApp\wwwroot\live2d-widget\.gitignore

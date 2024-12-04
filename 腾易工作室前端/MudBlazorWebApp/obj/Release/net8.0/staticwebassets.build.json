@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UlSsk7yHdIFmLv/RRu/lZ6EMS9P2GCahvHLUad70w7E=",
+  "Hash": "GcC8FMbs0ARSmZuPVSRmGhdE3sjGo4+yrZBz13NQUUY=",
   "Source": "MudBlazorWebApp",
   "BasePath": "_content/MudBlazorWebApp",
   "Mode": "Default",
@@ -13492,8 +13492,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nrrga0hq11",
-      "Integrity": "bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8=",
+      "Fingerprint": "902i6zh734",
+      "Integrity": "qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\live2d-widget\\autoload.js"
@@ -67044,6 +67044,51 @@
       ]
     },
     {
+      "Route": "live2d-widget/autoload.902i6zh734.js",
+      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 04:16:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "902i6zh734"
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/autoload.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE="
+        }
+      ]
+    },
+    {
       "Route": "live2d-widget/autoload.js",
       "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
       "Selectors": [],
@@ -67054,7 +67099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2087"
+          "Value": "2153"
         },
         {
           "Name": "Content-Type",
@@ -67062,11 +67107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8=\""
+          "Value": "\"qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 03:46:17 GMT"
+          "Value": "Wed, 04 Dec 2024 04:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -67076,52 +67121,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8="
-        }
-      ]
-    },
-    {
-      "Route": "live2d-widget/autoload.nrrga0hq11.js",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2087"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 03:46:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nrrga0hq11"
-        },
-        {
-          "Name": "label",
-          "Value": "live2d-widget/autoload.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8="
+          "Value": "sha256-qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE="
         }
       ]
     },

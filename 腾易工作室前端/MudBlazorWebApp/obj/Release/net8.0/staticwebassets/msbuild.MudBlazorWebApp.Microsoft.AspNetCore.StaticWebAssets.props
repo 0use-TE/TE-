@@ -516,8 +516,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nrrga0hq11</Fingerprint>
-      <Integrity>bTXcXAN4yO3/ItXOwvULZ0nagFLpZtZyvac8t78i3X8=</Integrity>
+      <Fingerprint>902i6zh734</Fingerprint>
+      <Integrity>qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\live2d-widget\autoload.js'))</OriginalItemSpec>

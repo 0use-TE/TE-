@@ -10,6 +10,7 @@ namespace MudBlazorWebApp.Models
 		public static string diaryImageSrc2025 = "Images/Diary/2024/";
 		public static string diaryImageSrc2026 = "Images/Diary/2024/";
 		public static string diaryImageSrc2027 = "Images/Diary/2024/";
+		public static string IP=null!;
 		public static DateRange? DateRange { get; set; }
 		public static Diary SelectedDiary { get; set; }=DiaryData.AllDiaries.First();
 	}
