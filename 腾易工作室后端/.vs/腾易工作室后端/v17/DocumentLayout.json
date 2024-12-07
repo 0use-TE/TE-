@@ -54,8 +54,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -76,7 +80,7 @@
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwA0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T15:17:38.641Z",
               "EditorCaption": ""
