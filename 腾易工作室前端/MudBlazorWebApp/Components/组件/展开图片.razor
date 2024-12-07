@@ -1,0 +1,24 @@
+﻿<MudDialog Style="background-color:black" onclick="@Cancel">
+    <DialogContent>
+        <MudStack Justify="Justify.Center" AlignItems="AlignItems.Center" Style="height: 100%;">
+            <MudIconButton Style="z-index:2" Icon="@Icons.Material.Filled.ArrowCircleLeft" Edge="Edge.Start"></MudIconButton>
+            <MudImage Fluid Class="rounded-lg" Style="max-height:100%"
+                      Src=@paths[currentIndex]/>
+            <MudIconButton Icon="@Icons.Material.Filled.ArrowCircleRight" Edge="Edge.End"></MudIconButton>
+        </MudStack>
+    </DialogContent>
+</MudDialog>
+
+
+@code {
+    [CascadingParameter]
+    private MudDialogInstance MudDialog { get; set; } = null!;
+    [Parameter]
+   public List<string> paths { get; set; } = null!;
+    [Parameter]
+    public int currentIndex { get; set; } = 1;
+    public void Cancel()
+    {
+        MudDialog.CancelAll();
+    }
+}

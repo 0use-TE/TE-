@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MudBlazorWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d7c3cba52ab75fc804ac7eedae7b46856284e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcab1dfa0c2c953efd40acdd568c95963794320c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MudBlazorWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MudBlazorWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

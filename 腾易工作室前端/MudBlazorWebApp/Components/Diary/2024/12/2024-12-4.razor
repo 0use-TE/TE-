@@ -1,41 +1,64 @@
 ﻿@page "/Diary/2024-12-4"
-@inject IDialogService DialogService
+<PageTitle>@Settings.SelectedDiary.Title</PageTitle>
 <MudStack>
-    <MudText Style="text-indent:5%">一个月前,经过我们宿舍的一致同意，一只非洲迷你刺猬—扣嘚(Code)来到了我们的身边,经过一个多月的相处，我逐渐了解了非洲刺猬的生活习性，因此希望开一个栏目来介绍非洲刺猬和分享我与Code的日常。</MudText>
+    <MudText Class="indent">一个月前,经过我们宿舍的一致同意，一只非洲迷你刺猬—扣嘚(Code)来到了我们的身边,经过一个多月的相处，我逐渐了解了非洲刺猬的生活习性，因此希望开一个栏目来介绍非洲刺猬和分享我与Code的日常。</MudText>
     <MudText Align="Align.Center">先放一组照片😋😋😋</MudText>
-    <MudGrid>
-        <MudItem xs="4" Style="aspect-ratio: 1;padding-left:2%">
-            <MudImage Src=@(Settings.diaryImageSrc2024 + "12/4/1.jpg") ObjectFit=ObjectFit.Cover ObjectPosition=ObjectPosition.Center
-            Style="width: 100%; height:100%"  />
-        </MudItem>
-        <MudItem xs="4" Style="aspect-ratio: 1; padding-left:2%">
-            <MudImage Src=@(Settings.diaryImageSrc2024 + "12/4/2.jpg") ObjectFit=ObjectFit.Cover
-            Style="width: 100%; height:100%"
-            ObjectPosition=ObjectPosition.Center />
-        </MudItem>
-        <MudItem xs="4" Style="aspect-ratio: 1;padding-left:2%">
-            <MudImage Src=@(Settings.diaryImageSrc2024 + "12/4/3.jpg") ObjectFit=ObjectFit.Cover
-            Style="width: 100%;  height:100%;" 
-            ObjectPosition=ObjectPosition.Center />
-        </MudItem>
+    <显示图片 paths="@Tools.GetEnamorImagePath(Settings.diaryImageSrc2024+"12/4",1,6)"></显示图片>
+    <MudText Class="indent">嘿嘿，怎么说?是不是超级可爱，如果你也想拥有这么一只可爱的"毛妹"，那么就请看下去吧！😊</MudText>
+    <MudList T="string" Padding>
+        <MudListSubheader>接下来我将分为以下部分展开介绍:</MudListSubheader>
+        <MudListItem Text="一.必要准备和选购">
+            <NestedList>
+                <MudText Class="indent" Color="Color.Error">养任何宠物前必须要做好心理准备!!!既然养了就要对他们负责！</MudText>
+                <MudText>
+                    养刺猬之前，你需要准备好一个适宜的环境。刺猬是一种比较独立的宠物，但它们仍然需要足够的关爱和照顾。首先，你需要准备一个足够大的笼子(<MudText Inline Color="Color.Error">小刺猬很大！笼子一定不能小于80*40*40。</MudText>)，
+                    最好是带有通风和舒适床垫的笼子。其次，确保为它们提供一个安静且温暖的生活环境，温度最好保持在24°C至28°C之间。这里我推荐PVC材质的饲养箱,带陶瓷灯温控，湿度温度检测，价格在200左右。
+                </MudText>
+                <显示图片 paths="@Tools.GetEnamorImagePath(Settings.diaryImageSrc2024+"12/4",7,3)"></显示图片>
+                <MudText>
+                    购买刺猬时，一定要选择健康的个体，线下购买的话，可以检查其眼睛是否明亮，皮毛是否光滑，是否有异常的行为或健康问题。线上的话
+                    只能尝试和店家聊聊，能不能自己照片选择...我是在拼多多购买的，价格为68。(<MudText Inline Color="Color.Success">运气很好，商家发给我的真不错！</MudText>)
+                </MudText>
+                <MudText>
+                    然后是大家最关注的卫生问题,首先，小刺猬很爱干净，也没什么异味，商家发前也都注射了疫苗，网上也查不到什么刺猬病毒事件，
+                    这点应该可以放心。然后值得注意的是：<MudText Inline Color="Color.Error">刺猬吃的多，拉的有很多！</MudText>不过好在刺猬可以学会上厕所，最下面我会
+                    详细介绍.🤭
+                </MudText>
+            </NestedList>
+        </MudListItem>
 
+        <MudListItem Text="二.小刺猬应该喂什么?">
+            <NestedList>
+                <MudText Inline Class="indent" Color="Color.Warning">刺猬的饮食至关重要，合适的饮食能够帮助它们保持健康。</MudText>
+                <MudText>刺猬是杂食性动物，主要食物包括昆虫、小型爬行动物、果蔬等。你可以为它们提供专门的刺猬食品，或者给它们喂食高蛋白的食物，比如昆虫、蜗牛、蚯蚓等。在家喂养的刺猬也可以吃一些水果，比如苹果、葡萄等，但要避免给它们喂食过多的糖分高的水果，如香蕉。</MudText>
+                <MudText>下面是食谱和刚买来商家送的饲料:</MudText>
+                <显示图片 paths="@Tools.GetEnamorImagePath(Settings.diaryImageSrc2024+"12/4",10,3)"></显示图片>
+                <MudText>
+                    主食的话，千万不要选什么刺猬粮，刺猬粮和猫粮没什么区别，而且多半无质量保证，所以直接选择猫粮即可，口味选择鸡肉，鸡蛋，牛肉的，尽量不要选择
+                    海鲜口味的，带有刺激性，对刺猬健康不好！然后是换粮要使用七天换粮法，循序渐进，平时可以喂些小零食(面包虫，蔬菜水果)，<MudText Inline Color="Color.Error">
+                        喂多会挑食！！！小家伙口叼的很🤓👍</MudText>
+                </MudText>
+                <MudText>基本上每天都要换水，水的话，我一直放的自来水，没有任何问题，可以的话还是纯净水好些！</MudText>
+            </NestedList>
+        </MudListItem>
+        <MudText Color="Color.Error">下面小编还在奋斗中...😘</MudText>
+        <MudListItem Text="三.如何增进感情?" > 
+        </MudListItem>
 
-        <MudItem xs="4" Style="aspect-ratio: 1;padding-left:2%">
-            <MudButton OnClick="Test">
-                <MudImage Src=@(Settings.diaryImageSrc2024 + "12/4/4.jpg") ObjectFit=ObjectFit.Cover
-                Style="width: 100%;  height:100%;"
-                ObjectPosition=ObjectPosition.Center />
-            </MudButton>
-        </MudItem>
-    </MudGrid>
+        <MudListItem Text="四.常见疑惑和问题">
+        </MudListItem>
+    </MudList>
+
 </MudStack>
+<style>
+    .indent
+    {
+        text-indent: 5%
+    }
+</style>
 @code
 {
-    private void Test()
-    {
-        DialogOptions dialogOptions = new DialogOptions() { FullScreen = true, CloseButton = true , CloseOnEscapeKey=true};
-        DialogService.Show<显示图片>("",dialogOptions); 
-    }
+
 }
 
 

@@ -1,19 +1,29 @@
-﻿<MudDialog  Style="background-color:black">
-    <DialogContent>
-        <MudStack Justify="Justify.Center" AlignItems="AlignItems.Center" Style="height: 100%;" >
-            <MudImage Style="height:90vh;max-width:100vw" Class="rounded-lg"
-                      Src=@(Settings.diaryImageSrc2024 + "12/4/1.jpg") />
-        </MudStack>
-    </DialogContent>
-    <DialogActions>
-    
-    </DialogActions>
-</MudDialog>
+﻿@inject IDialogService DialogService
 
+<MudGrid>
+    @foreach (var item in paths.Select((value, index) => new { value, index }))
+    {
+        <MudItem xs="4" Style="aspect-ratio: 1;padding-left:1%">
+            <MudImage @onclick="() => ShowDialog(item.index)" Src="@item.value" 
+                      ObjectFit=ObjectFit.Cover ObjectPosition=ObjectPosition.Center
+                      Style="width: 100%; height:100%" Class="rounded-md" />
+        </MudItem>
+    }
+</MudGrid>
 
-@code {
-	[CascadingParameter]
-	private MudDialogInstance MudDialog { get; set; } = null!;
-	[Parameter]
-	public string? test { get; set; }
+@code
+{
+    [Parameter]
+    public List<string> paths { get; set; } = null!;
+
+    private void ShowDialog(int index)
+    {
+        DialogParameters parameters = new DialogParameters()
+        {
+            { "currentIndex", index },
+            { "paths", paths }
+        };
+        DialogOptions dialogOptions = new DialogOptions() { FullScreen = true, CloseOnEscapeKey = true };
+        DialogService.Show<展开图片>("", parameters, dialogOptions);
+    }
 }
