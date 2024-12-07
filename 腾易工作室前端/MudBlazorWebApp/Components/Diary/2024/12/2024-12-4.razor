@@ -1,12 +1,12 @@
 ﻿@page "/Diary/2024-12-4"
-<PageTitle>@Settings.SelectedDiary.Title</PageTitle>
+
 <MudStack>
     <MudText Class="indent">一个月前,经过我们宿舍的一致同意，一只非洲迷你刺猬—扣嘚(Code)来到了我们的身边,经过一个多月的相处，我逐渐了解了非洲刺猬的生活习性，因此希望开一个栏目来介绍非洲刺猬和分享我与Code的日常。</MudText>
     <MudText Align="Align.Center">先放一组照片😋😋😋</MudText>
     <显示图片 paths="@Tools.GetEnamorImagePath(Settings.diaryImageSrc2024+"12/4",1,6)"></显示图片>
     <MudText Class="indent">嘿嘿，怎么说?是不是超级可爱，如果你也想拥有这么一只可爱的"毛妹"，那么就请看下去吧！😊</MudText>
     <MudList T="string" Padding>
-        <MudListSubheader>接下来我将分为以下部分展开介绍:</MudListSubheader>
+        <MudListSubheader>接下来我将分为以下部分展开介绍：(注:点击可展开)</MudListSubheader>
         <MudListItem Text="一.必要准备和选购">
             <NestedList>
                 <MudText Class="indent" Color="Color.Error">养任何宠物前必须要做好心理准备!!!既然养了就要对他们负责！</MudText>
@@ -38,15 +38,35 @@
                     海鲜口味的，带有刺激性，对刺猬健康不好！然后是换粮要使用七天换粮法，循序渐进，平时可以喂些小零食(面包虫，蔬菜水果)，<MudText Inline Color="Color.Error">
                         喂多会挑食！！！小家伙口叼的很🤓👍</MudText>
                 </MudText>
-                <MudText>基本上每天都要换水，水的话，我一直放的自来水，没有任何问题，可以的话还是纯净水好些！</MudText>
+                <MudText>基本上每天都要换水，水的话，我一直放的自来水，没有净水好些！</MudText>
             </NestedList>
         </MudListItem>
         <MudText Color="Color.Error">下面小编还在奋斗中...😘</MudText>
-        <MudListItem Text="三.如何增进感情?" > 
+        <MudListItem Text="三.如何增进感情?">
+            <NestedList>
+                <MudText Class="indent">刺猬生性胆小，一听见一点声音就会感到紧张和害怕，缩成一个球，这是正常现象</MudText>
+            </NestedList>
         </MudListItem>
 
         <MudListItem Text="四.常见疑惑和问题">
+            <NestedList>
+                <MudText Class="indent">1. 刺猬为什么会把自己蜷成一个球？</MudText>
+                <MudText Class="indent">答：当刺猬感到威胁或害怕时，它会蜷缩成球，刺出尖刺以防御外来攻击。通常这是一种自我保护的行为。</MudText>
+
+                <MudText Class="indent">2. 刺猬能不能训练上厕所？</MudText>
+                <MudText Class="indent">答：刺猬是可以学习使用某个地方如角落上厕所的，但这需要时间和耐心。你可以通过定期将它放在固定位置，并奖励它，帮助它养成习惯。</MudText>
+
+                <MudText Class="indent">3. 刺猬吃什么好？</MudText>
+                <MudText Class="indent">答：刺猬的主要食物是昆虫，尤其是蜗牛、蟋蟀等。除此之外，它们也可以食用一些蔬菜水果，如苹果、胡萝卜等。但不要给它们吃过多的高糖分食物。</MudText>
+
+                <MudText Class="indent">4. 刺猬的寿命是多少？</MudText>
+                <MudText Class="indent">答：刺猬的平均寿命大约在3到5年之间，适当的照料和健康饮食能延长它们的寿命。</MudText>
+
+                <MudText Class="indent">5. 刺猬的刺会不会伤害到人？</MudText>
+                <MudText Class="indent">答：刺猬的刺非常尖锐，但它们通常不会主动攻击人类，只有在感到威胁时才会蜷成球并用刺进行防御。因此，在接触刺猬时要小心。</MudText>
+            </NestedList>
         </MudListItem>
+
     </MudList>
 
 </MudStack>

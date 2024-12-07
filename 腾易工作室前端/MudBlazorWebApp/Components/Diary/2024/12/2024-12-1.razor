@@ -1,8 +1,27 @@
 ﻿@page "/Diary/2024-12-1"
 <MudStack>
-	<MudText></MudText>
-
-
+	<MudText Class="indent">时光荏苒，白驹过隙，转眼间我已经20岁了。<MudText Inline Color="Color.Error">真是要奔三了(不是)😭。</MudText>网站也经过了多版迭代，但
+    没有一代坚持写了下去。我感觉这点我太失败了，如今这版网站采用Asp.Net，整体还算不错，我未来应该也不会再进行再版，所以
+写日记也不用再考虑未来迁移的问题了。</MudText>
+        <MudSelect Label="网站分为以下栏目:(点击我可以查看!)" T="string"  AdornmentColor="Color.Error">
+            <MudSelectItem T="string">@DiaryType.无类型</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.个人生活</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.学习</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.编程</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.旅行</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.动物</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.健康与运动</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.工作</MudSelectItem>
+            <MudSelectItem T="string">@DiaryType.其它</MudSelectItem>
+        </MudSelect>
+        <MudText Class="indent"></MudText>
 </MudStack>
+
+<style>
+    .indent
+    {
+        text-indent:5%
+    }
+</style>
 
  
