@@ -1,0 +1,16 @@
+﻿<MudCard Style="height:100%;width:100%">
+    <MudCardHeader>
+        <CardHeaderContent >@OpenSource.Name</CardHeaderContent>
+    </MudCardHeader>
+    <MudCardContent>
+        @OpenSource.Description
+    </MudCardContent>
+    <MudCardActions>
+        <MudIconButton Icon="@Icons.Custom.Brands.GitHub"></MudIconButton>
+        <MudIconButton Icon="@Icons.Material.Filled.Share" Color="Color.Default" />
+    </MudCardActions>
+</MudCard>
+@code{
+    [Parameter]
+    public OpenSource OpenSource { get; set; } = null!;
+}

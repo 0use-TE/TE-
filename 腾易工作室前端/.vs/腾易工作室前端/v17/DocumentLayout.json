@@ -1,50 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\",
+  "WorkspaceRootPath": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u5F00\u6E90\u9879\u76EE.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u5F00\u6E90\u9879\u76EE.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u5F00\u6E90\u9879\u76EE.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE\u7EC4\u4EF6.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE\u7EC4\u4EF6.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\data\\opensourcedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\data\\opensourcedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\models\\opensource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\models\\opensource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u5728\u7EBF\u6E38\u73A9.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u5728\u7EBF\u6E38\u73A9.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-4.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\wwwroot\\images\\game\\\u6293\u5927\u9E45\\2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-4.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-4.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|c:\\users\\lx\\desktop\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\diarylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\models\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\models\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\data\\diarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\data\\diarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u6E38\u620F\u4E13\u680F.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u6E38\u620F\u4E13\u680F.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\diary\\2024\\12\\2024-12-1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|d:\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\mudblazorwebapp\\components\\pages\\\u5728\u7EBF\u6E38\u73A9.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1AAA38A-3B04-4BBF-87C6-BD0675D8E3FB}|MudBlazorWebApp\\MudBlazorWebApp.csproj|solutionrelative:mudblazorwebapp\\components\\pages\\\u5728\u7EBF\u6E38\u73A9.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,55 +98,236 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\App.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T14:53:03.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "\u5F00\u6E90\u9879\u76EE.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T14:52:37.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "\u5728\u7EBF\u6E38\u73A9.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T14:49:17.258Z"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5DE5\u4F5C\u5BA4\u4ECB\u7ECD.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T17:45:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "4.png",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\4.png",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\4.png",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\4.png",
+              "RelativeToolTip": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\4.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-09T17:40:12.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1.png",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\1.png",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\1.png",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\1.png",
+              "RelativeToolTip": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-09T17:40:03.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenSourceData.cs",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\OpenSourceData.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Data\\OpenSourceData.cs",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\OpenSourceData.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Data\\OpenSourceData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:06:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5F00\u6E90\u9879\u76EE\u7EC4\u4EF6.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE\u7EC4\u4EF6.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE\u7EC4\u4EF6.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE\u7EC4\u4EF6.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5F00\u6E90\u9879\u76EE\u7EC4\u4EF6.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:52:37.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5F00\u6E90\u9879\u76EE.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:47:19.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenSource.cs",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\OpenSource.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\OpenSource.cs",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\OpenSource.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Models\\OpenSource.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:02:29.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "3.png",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\3.png",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\3.png",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\3.png",
+              "RelativeToolTip": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\3.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-09T17:40:08.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2.png",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\2.png",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\2.png",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\2.png",
+              "RelativeToolTip": "MudBlazorWebApp\\wwwroot\\Images\\Game\\\u6293\u5927\u9E45\\2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-09T17:40:10.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\u5C55\u5F00\u56FE\u7247.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:31:55.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\u663E\u793A\u56FE\u7247.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:32:21.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiaryLayout.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:25:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Tools.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Models\\Tools.cs",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Models\\Tools.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Models\\Tools.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:44:54.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "2024-12-4.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T09:20:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "2024-12-2.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-2.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T16:15:41.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiaryData.cs",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\DiaryData.cs",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Data\\DiaryData.cs",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Data\\DiaryData.cs",
+              "RelativeToolTip": "MudBlazorWebApp\\Data\\DiaryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:33:41.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "\u6E38\u620F\u4E13\u680F.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u6E38\u620F\u4E13\u680F.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T16:34:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,88 +335,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\u5F00\u6E90\u9879\u76EE.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5F00\u6E90\u9879\u76EE.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "\u5728\u7EBF\u6E38\u73A9.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\Pages\\\u5728\u7EBF\u6E38\u73A9.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T14:47:19.636Z"
+              "WhenOpened": "2024-12-07T14:49:17.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "2024-12-1.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
               "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-1.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T13:08:21.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\u663E\u793A\u56FE\u7247.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u663E\u793A\u56FE\u7247.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T08:32:21.084Z",
+              "WhenOpened": "2024-12-07T13:08:21.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "\u5C55\u5F00\u56FE\u7247.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\\u7EC4\u4EF6\\\u5C55\u5F00\u56FE\u7247.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\App.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\App.razor",
+              "RelativeToolTip": "MudBlazorWebApp\\Components\\App.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T08:31:55.388Z"
+              "WhenOpened": "2024-12-07T14:53:03.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DiaryLayout.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\DiaryLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T08:25:56.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "MudBlazorWebApp\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-07T08:25:55.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "2024-12-4.razor",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
-              "RelativeDocumentMoniker": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u524D\u7AEF\\MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
-              "RelativeToolTip": "MudBlazorWebApp\\Components\\Diary\\2024\\12\\2024-12-4.razor",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T09:20:01.195Z"
             }
           ]
         }

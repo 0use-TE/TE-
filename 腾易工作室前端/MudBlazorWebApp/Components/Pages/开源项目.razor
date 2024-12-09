@@ -1,4 +1,17 @@
 ﻿@page "/github"
+<PageTitle>开源项目</PageTitle>
+<MudGrid>
+    @foreach (var item in openSources2024.Select((value, index) => new { value, index }))
+    {
+       <MudItem xs="6" sm="3" Style="height:300px">
+           <开源项目组件 OpenSource="item.value"></开源项目组件>
+       </MudItem>
+    }
+</MudGrid>
 
 
 
+@code
+{
+    public List<OpenSource> openSources2024 = OpenSourceData.OpenSources2024;
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nThKQkgYCyTTL0lBvlRwS5D6gTG80dV1D3be/1Nw+/U=",
+  "Hash": "05P9v9dp//ahqB0nWvzLJEKUn8xQOQZB9Ema2S08/8I=",
   "Source": "MudBlazorWebApp",
   "BasePath": "_content/MudBlazorWebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MudBlazorWebApp\\wwwroot",
       "Source": "MudBlazorWebApp",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
+      "Identity": "C:\\Users\\22165\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\22165\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css"
+      "OriginalItemSpec": "C:\\Users\\22165\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
+      "Identity": "C:\\Users\\22165\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\22165\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
+      "OriginalItemSpec": "C:\\Users\\22165\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\favicon.ico",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/1.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\1.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\10.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\10.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/10.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\10.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\11.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\11.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/11.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\11.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\12.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\12.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/12.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\12.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/2.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\2.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/3.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\3.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/4.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\4.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/5.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\5.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/6.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\6.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\7.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\7.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/7.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\7.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\8.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\8.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/8.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\8.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\9.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\9.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Diary/2024/12/4/9.jpg",
       "AssetKind": "All",
@@ -302,10 +302,67 @@
       "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\9.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\1.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\video1.mp4",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/video1.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\video1.mp4"
+    },
+    {
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\video2.mp4",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/video2.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\video2.mp4"
+    },
+    {
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Diary\\2024\\12\\4\\video3.mp4",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "Images/Diary/2024/12/4/video3.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Diary\\2024\\12\\4\\video3.mp4"
+    },
+    {
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\1.png",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/地牢迷途/1.png",
       "AssetKind": "All",
@@ -321,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\地牢迷途\\1.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\2.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\2.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/地牢迷途/2.png",
       "AssetKind": "All",
@@ -340,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\地牢迷途\\2.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\3.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\3.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/地牢迷途/3.png",
       "AssetKind": "All",
@@ -359,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\地牢迷途\\3.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\4.mp4",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\地牢迷途\\4.mp4",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/地牢迷途/4.mp4",
       "AssetKind": "All",
@@ -378,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\地牢迷途\\4.mp4"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\1.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\1.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/抓大鹅/1.png",
       "AssetKind": "All",
@@ -397,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\抓大鹅\\1.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\2.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\2.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/抓大鹅/2.png",
       "AssetKind": "All",
@@ -416,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\抓大鹅\\2.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\3.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\3.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/抓大鹅/3.png",
       "AssetKind": "All",
@@ -435,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\抓大鹅\\3.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\4.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Game\\抓大鹅\\4.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Game/抓大鹅/4.png",
       "AssetKind": "All",
@@ -454,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Game\\抓大鹅\\4.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\HomeVideo.mp4",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\HomeVideo.mp4",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Home/HomeVideo.mp4",
       "AssetKind": "All",
@@ -473,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Home\\HomeVideo.mp4"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\teLogo.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\teLogo.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Home/teLogo.png",
       "AssetKind": "All",
@@ -492,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Home\\teLogo.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\落叶.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\Home\\落叶.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/Home/落叶.jpg",
       "AssetKind": "All",
@@ -511,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Home\\落叶.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\bibibi.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\bibibi.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/人员/bibibi.jpg",
       "AssetKind": "All",
@@ -530,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\人员\\bibibi.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\grsgr.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\grsgr.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/人员/grsgr.jpg",
       "AssetKind": "All",
@@ -549,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\人员\\grsgr.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\Ouse.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\Ouse.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/人员/Ouse.jpg",
       "AssetKind": "All",
@@ -568,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\人员\\Ouse.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\touken.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\touken.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/人员/touken.jpg",
       "AssetKind": "All",
@@ -587,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\人员\\touken.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\w.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\w.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/人员/w.jpg",
       "AssetKind": "All",
@@ -606,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\人员\\w.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\yuZe.jpg",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\Images\\人员\\yuZe.jpg",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "Images/人员/yuZe.jpg",
       "AssetKind": "All",
@@ -625,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\人员\\yuZe.jpg"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\JS\\test.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\JS\\test.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "JS/test.js",
       "AssetKind": "All",
@@ -644,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\JS\\test.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-1.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-1.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/assets/screenshot-1.png",
       "AssetKind": "All",
@@ -663,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\assets\\screenshot-1.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-2.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-2.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/assets/screenshot-2.png",
       "AssetKind": "All",
@@ -682,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\assets\\screenshot-2.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-3.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\assets\\screenshot-3.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/assets/screenshot-3.png",
       "AssetKind": "All",
@@ -701,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\assets\\screenshot-3.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\autoload.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/autoload.js",
       "AssetKind": "All",
@@ -720,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\autoload.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\demo.html",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\demo.html",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/demo/demo.html",
       "AssetKind": "All",
@@ -739,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\demo\\demo.html"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\login.html",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\demo\\login.html",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/demo/login.html",
       "AssetKind": "All",
@@ -758,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\demo\\login.html"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\LICENSE",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\LICENSE",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/LICENSE",
       "AssetKind": "All",
@@ -777,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\LICENSE"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\live2d.min.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\live2d.min.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/live2d.min.js",
       "AssetKind": "All",
@@ -796,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\live2d.min.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\package.json",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\package.json",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/package.json",
       "AssetKind": "All",
@@ -815,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\package.json"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.en.md",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.en.md",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/README.en.md",
       "AssetKind": "All",
@@ -834,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\README.en.md"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.md",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\README.md",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/README.md",
       "AssetKind": "All",
@@ -853,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\README.md"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\rollup.config.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\rollup.config.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/rollup.config.js",
       "AssetKind": "All",
@@ -872,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\rollup.config.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\index.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\index.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/src/index.js",
       "AssetKind": "All",
@@ -891,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\index.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\message.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\message.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/src/message.js",
       "AssetKind": "All",
@@ -910,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\message.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\model.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\model.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/src/model.js",
       "AssetKind": "All",
@@ -929,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\model.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\tools.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\tools.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/src/tools.js",
       "AssetKind": "All",
@@ -948,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\tools.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\utils.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\utils.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/src/utils.js",
       "AssetKind": "All",
@@ -967,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\utils.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\waifu-tips.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\src\\waifu-tips.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/src/waifu-tips.js",
       "AssetKind": "All",
@@ -986,48 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\src\\waifu-tips.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
-      "BasePath": "_content/MudBlazorWebApp",
-      "RelativePath": "live2d-widget/waifu-tips.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu-tips.js"
-    },
-    {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.json",
-      "SourceId": "MudBlazorWebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
-      "BasePath": "_content/MudBlazorWebApp",
-      "RelativePath": "live2d-widget/waifu-tips.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu-tips.json"
-    },
-    {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu.css",
-      "SourceId": "MudBlazorWebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "live2d-widget/waifu.css",
       "AssetKind": "All",
@@ -1043,10 +1062,48 @@
       "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu.css"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/waifu-tips.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu-tips.js"
+    },
+    {
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\live2d-widget\\waifu-tips.json",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "BasePath": "_content/MudBlazorWebApp",
+      "RelativePath": "live2d-widget/waifu-tips.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\live2d-widget\\waifu-tips.json"
+    },
+    {
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb",
+      "SourceId": "MudBlazorWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/Build/数字华容道Web.data.unityweb",
       "AssetKind": "All",
@@ -1062,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.data.unityweb"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.framework.js.unityweb",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.framework.js.unityweb",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/Build/数字华容道Web.framework.js.unityweb",
       "AssetKind": "All",
@@ -1081,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.framework.js.unityweb"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.loader.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.loader.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/Build/数字华容道Web.loader.js",
       "AssetKind": "All",
@@ -1100,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.loader.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.wasm.unityweb",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.wasm.unityweb",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/Build/数字华容道Web.wasm.unityweb",
       "AssetKind": "All",
@@ -1119,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\Build\\数字华容道Web.wasm.unityweb"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\index.html",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\index.html",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/index.html",
       "AssetKind": "All",
@@ -1138,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\index.html"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\favicon.ico",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\favicon.ico",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/favicon.ico",
       "AssetKind": "All",
@@ -1157,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\favicon.ico"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\fullscreen-button.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\fullscreen-button.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/fullscreen-button.png",
       "AssetKind": "All",
@@ -1176,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\fullscreen-button.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\MemoryProfiler.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\MemoryProfiler.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/MemoryProfiler.png",
       "AssetKind": "All",
@@ -1195,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\MemoryProfiler.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-dark.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-dark.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-dark.png",
       "AssetKind": "All",
@@ -1214,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-dark.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-light.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-light.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-light.png",
       "AssetKind": "All",
@@ -1233,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-empty-light.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-dark.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-dark.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-dark.png",
       "AssetKind": "All",
@@ -1252,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-dark.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-light.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-light.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-light.png",
       "AssetKind": "All",
@@ -1271,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\progress-bar-full-light.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\style.css",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\style.css",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/style.css",
       "AssetKind": "All",
@@ -1290,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\style.css"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-dark.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-dark.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/unity-logo-dark.png",
       "AssetKind": "All",
@@ -1309,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-dark.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-light.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-light.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/unity-logo-light.png",
       "AssetKind": "All",
@@ -1328,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\unity-logo-light.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webgl-logo.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webgl-logo.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/webgl-logo.png",
       "AssetKind": "All",
@@ -1347,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webgl-logo.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webmemd-icon.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webmemd-icon.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/数字华容道Web/TemplateData/webmemd-icon.png",
       "AssetKind": "All",
@@ -1366,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\数字华容道Web\\TemplateData\\webmemd-icon.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.data.unityweb",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.data.unityweb",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/Build/消灭星星Web.data.unityweb",
       "AssetKind": "All",
@@ -1385,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.data.unityweb"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.framework.js.unityweb",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.framework.js.unityweb",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/Build/消灭星星Web.framework.js.unityweb",
       "AssetKind": "All",
@@ -1404,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.framework.js.unityweb"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.loader.js",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.loader.js",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/Build/消灭星星Web.loader.js",
       "AssetKind": "All",
@@ -1423,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.loader.js"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.wasm.unityweb",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.wasm.unityweb",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/Build/消灭星星Web.wasm.unityweb",
       "AssetKind": "All",
@@ -1442,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\Build\\消灭星星Web.wasm.unityweb"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\index.html",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\index.html",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/index.html",
       "AssetKind": "All",
@@ -1461,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\index.html"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\favicon.ico",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\favicon.ico",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/favicon.ico",
       "AssetKind": "All",
@@ -1480,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\favicon.ico"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\fullscreen-button.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\fullscreen-button.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/fullscreen-button.png",
       "AssetKind": "All",
@@ -1499,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\fullscreen-button.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\MemoryProfiler.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\MemoryProfiler.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/MemoryProfiler.png",
       "AssetKind": "All",
@@ -1518,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\MemoryProfiler.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-dark.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-dark.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-dark.png",
       "AssetKind": "All",
@@ -1537,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-dark.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-light.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-light.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-light.png",
       "AssetKind": "All",
@@ -1556,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-empty-light.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-dark.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-dark.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-dark.png",
       "AssetKind": "All",
@@ -1575,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-dark.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-light.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-light.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-light.png",
       "AssetKind": "All",
@@ -1594,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\progress-bar-full-light.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\style.css",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\style.css",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/style.css",
       "AssetKind": "All",
@@ -1613,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\style.css"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-dark.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-dark.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/unity-logo-dark.png",
       "AssetKind": "All",
@@ -1632,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-dark.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-light.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-light.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/unity-logo-light.png",
       "AssetKind": "All",
@@ -1651,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\unity-logo-light.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webgl-logo.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webgl-logo.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/webgl-logo.png",
       "AssetKind": "All",
@@ -1670,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webgl-logo.png"
     },
     {
-      "Identity": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webmemd-icon.png",
+      "Identity": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\在线游玩\\消灭星星Web\\TemplateData\\webmemd-icon.png",
       "SourceId": "MudBlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\wwwroot\\",
       "BasePath": "_content/MudBlazorWebApp",
       "RelativePath": "在线游玩/消灭星星Web/TemplateData/webmemd-icon.png",
       "AssetKind": "All",

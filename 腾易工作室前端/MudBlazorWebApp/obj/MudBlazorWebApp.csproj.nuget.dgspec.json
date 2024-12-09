@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj": {}
+    "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj": {}
   },
   "projects": {
-    "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj": {
+    "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
+        "projectUniqueName": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
         "projectName": "MudBlazorWebApp",
-        "projectPath": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\obj\\",
+        "projectPath": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
+        "packagesPath": "C:\\Users\\22165\\.nuget\\packages\\",
+        "outputPath": "D:\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\22165\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
