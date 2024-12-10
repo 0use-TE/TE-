@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\commentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\gamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\gamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\models\\gamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\migrations\\20240912091207_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\migrations\\20240912091207_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\migrations\\20240912091207_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|d:\\\u5E38\u7528\\\u684C\u9762\\myproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\migrations\\20240914082547_addgamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|c:\\users\\administrator\\desktop\\gitproject\\testudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\migrations\\20240914082547_addgamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B0A2C0-DF8B-4159-A4CE-BAC042CF4768}|\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF.csproj|solutionrelative:\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\migrations\\20240914082547_addgamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PageModel.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\PageModel.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,11 +76,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CommentController.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Controllers\\CommentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T15:17:38.641Z",
               "EditorCaption": ""
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Properties\\launchSettings.json",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MyDb.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\MyDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -125,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBGwBgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CommentModel.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CommentConfig.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\CommentConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GamePageModel.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\GamePageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\GamePageModel.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\GamePageModel.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\GamePageModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\GamePageModel.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Models\\GamePageModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "20240912091207_Init.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240912091207_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240912091207_Init.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240912091207_Init.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240912091207_Init.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240912091207_Init.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240912091207_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,31 +185,13 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "20240914082547_AddGamePageModel.cs",
-              "DocumentMoniker": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240914082547_AddGamePageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240914082547_AddGamePageModel.cs",
               "RelativeDocumentMoniker": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240914082547_AddGamePageModel.cs",
-              "ToolTip": "D:\\\u5E38\u7528\\\u684C\u9762\\MyProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240914082547_AddGamePageModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240914082547_AddGamePageModel.cs",
               "RelativeToolTip": "\u817E\u6613\u5DE5\u4F5C\u5BA4\u540E\u7AEF\\Migrations\\20240914082547_AddGamePageModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T08:25:47.721Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

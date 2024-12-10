@@ -43,6 +43,8 @@ else
 	Settings.URL = app.Configuration["DevelopmentURL"] ?? "http://localhost:25000/api"; // 默认值
 	Settings.IP= app.Configuration["DevelopmentIP"] ?? "http://127.0.0.1"; // 默认值
 }
+Settings.URL = app.Configuration["URL"] ?? "http://106.54.7.121:25000/api"; // 默认值
+Settings.IP = app.Configuration["IP"] ?? "http://tegamecompany.com";
 app.UseCors("AllowAll");
 app.UseStaticFiles();
 app.UseAntiforgery();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("腾易工作室后端")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+596f167831a601f43aeb21cdf82df09976cad2a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b30009750b30e24ffa88556ba470d7d73a349086")]
 [assembly: System.Reflection.AssemblyProductAttribute("腾易工作室后端")]
 [assembly: System.Reflection.AssemblyTitleAttribute("腾易工作室后端")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -50,6 +50,7 @@
     private async Task<List<CommentModel>> LoadCommentsAsync(int page)
     {
         var response = await HttpClient.GetFromJsonAsync<List<CommentModel>>($"{Settings.URL}Comment/GetPagedComments?page={page}&pageSize={PageSize}");
+  
         return response ?? new List<CommentModel>(); // 防止返回 null
     }
     [JSInvokable]
