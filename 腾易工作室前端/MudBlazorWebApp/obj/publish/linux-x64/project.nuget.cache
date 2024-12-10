@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Okih1ZKH2M=",
+  "dgSpecHash": "wmTihscoJ7o=",
   "success": true,
-  "projectFilePath": "D:\\常用\\桌面\\MyProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\GitProject\\TEStudio\\腾易工作室前端\\MudBlazorWebApp\\MudBlazorWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.8\\microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.8\\microsoft.aspnetcore.components.8.0.8.nupkg.sha512",
@@ -20,7 +20,10 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.jsinterop\\8.0.8\\microsoft.jsinterop.8.0.8.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.15.0\\mudblazor.7.15.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.10\\microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.11\\microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }

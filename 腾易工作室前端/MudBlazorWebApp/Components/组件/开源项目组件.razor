@@ -1,4 +1,6 @@
-﻿<MudCard Style="height:100%;width:100%">
+﻿@inject IJSRuntime JSRuntime
+@inject ISnackbar Snackbar
+<MudCard Style="height:100%;width:100%">
     <MudCardHeader>
         <CardHeaderContent >@OpenSource.Name</CardHeaderContent>
     </MudCardHeader>
@@ -6,11 +8,26 @@
         @OpenSource.Description
     </MudCardContent>
     <MudCardActions>
-        <MudIconButton Icon="@Icons.Custom.Brands.GitHub"></MudIconButton>
-        <MudIconButton Icon="@Icons.Material.Filled.Share" Color="Color.Default" />
+        <MudIconButton Icon="@Icons.Custom.Brands.GitHub" Href="@OpenSource.Url" Target="_blank"></MudIconButton>
+        <MudIconButton Icon="@Icons.Material.Filled.Share" OnClick="CopyLink" />
     </MudCardActions>
 </MudCard>
+
 @code{
     [Parameter]
     public OpenSource OpenSource { get; set; } = null!;
+    private async Task CopyLink()
+    {
+        try
+        {
+            await JSRuntime.InvokeVoidAsync("navigator.clipboard.writeText", OpenSource.Url);
+            Snackbar.Add($"复制{OpenSource.Url}成功!", Severity.Success);
+        }
+        catch
+        {
+            Snackbar.Add($"复制{OpenSource.Url}失败!", Severity.Error);
+
+        }
+
+    }
 }

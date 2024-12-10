@@ -1,0 +1,7378 @@
+{
+  "Version": 1,
+  "ManifestType": "Publish",
+  "Endpoints": [
+    {
+      "Route": "Images/Diary/2024/12/4/1.6043361jdq.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6043361jdq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/1.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+j1uZS0CwK3P+G8OKUI6JQfrZH1njE9WmpAGUmHfpyU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/10.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hj3aoDCemixQNNtsVrZqzLfnMFtZpDqqItn4dOOVG+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hj3aoDCemixQNNtsVrZqzLfnMFtZpDqqItn4dOOVG+Y="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/10.m0r3m7cu59.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hj3aoDCemixQNNtsVrZqzLfnMFtZpDqqItn4dOOVG+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m0r3m7cu59"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hj3aoDCemixQNNtsVrZqzLfnMFtZpDqqItn4dOOVG+Y="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/10.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/11.7zfxu3yxpn.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3408414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3QYsH9m/pfSWw/eqoLT5l2zencM53m+PGUrH3mU4iO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7zfxu3yxpn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3QYsH9m/pfSWw/eqoLT5l2zencM53m+PGUrH3mU4iO0="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/11.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/11.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3408414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3QYsH9m/pfSWw/eqoLT5l2zencM53m+PGUrH3mU4iO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3QYsH9m/pfSWw/eqoLT5l2zencM53m+PGUrH3mU4iO0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/12.6vk0spqozd.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2247169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oqmcX4IQcV4fk6aRu42uSR+JiqwBTgDX8eFTOgDslis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6vk0spqozd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqmcX4IQcV4fk6aRu42uSR+JiqwBTgDX8eFTOgDslis="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/12.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/12.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2247169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oqmcX4IQcV4fk6aRu42uSR+JiqwBTgDX8eFTOgDslis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqmcX4IQcV4fk6aRu42uSR+JiqwBTgDX8eFTOgDslis="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/2.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2981382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/2.kqwfj8j89p.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2981382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqwfj8j89p"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hGl7wR9WtKuaSrrccQ+TdJpBEBXhUEVr+u7fPsE/4Nc="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/2.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/3.f559kkddgk.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1754507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f559kkddgk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/3.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/3.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1754507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQnXxpF/DAq0APNrPrczsRgouF+T6NpjRKQuBJd396g="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/4.iw95xml713.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iw95xml713"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/4.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/4.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YqqYL89w31sT5sGxs4fpbSLeA1uXW2AXIVRc2x27uok="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/5.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4129921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/5.w71lrswu75.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4129921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w71lrswu75"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGSlucnDs2hMhcca7sqC1H4q8kIq/NA5F7YMnsKKoGQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/5.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/6.g75cwqc7rm.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g75cwqc7rm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/6.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/6.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 09:45:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pBIDHyCPfZ2Gd5SA6iicAoQzwczvvj0NKACueFsIC3o="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/7.8r3sqt3w6r.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BCC6r/f/n85tF2Lt7ZxorP1VXSExZ9y6/nxCx2Bs5BE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8r3sqt3w6r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BCC6r/f/n85tF2Lt7ZxorP1VXSExZ9y6/nxCx2Bs5BE="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/7.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/7.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BCC6r/f/n85tF2Lt7ZxorP1VXSExZ9y6/nxCx2Bs5BE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BCC6r/f/n85tF2Lt7ZxorP1VXSExZ9y6/nxCx2Bs5BE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/8.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7RXqRO32+2M5QfRWgmEFBxoo2+M2GMK8+q+OpXX6jg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7RXqRO32+2M5QfRWgmEFBxoo2+M2GMK8+q+OpXX6jg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/8.xi4f31stzc.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7RXqRO32+2M5QfRWgmEFBxoo2+M2GMK8+q+OpXX6jg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xi4f31stzc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7RXqRO32+2M5QfRWgmEFBxoo2+M2GMK8+q+OpXX6jg="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/8.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/9.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YRMQ36mMcn/u9ptxeRe4TxyZqSOcfp1idQ9wpB1vkG4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YRMQ36mMcn/u9ptxeRe4TxyZqSOcfp1idQ9wpB1vkG4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/9.v4r97xf6j7.jpg",
+      "AssetFile": "Images/Diary/2024/12/4/9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YRMQ36mMcn/u9ptxeRe4TxyZqSOcfp1idQ9wpB1vkG4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 06:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v4r97xf6j7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YRMQ36mMcn/u9ptxeRe4TxyZqSOcfp1idQ9wpB1vkG4="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/9.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/video1.c3kjidckao.mp4",
+      "AssetFile": "Images/Diary/2024/12/4/video1.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14550771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iK1+xqftBKzSANAuIjhg6C+X49ECvBon40MWNIrC6v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 02:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c3kjidckao"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iK1+xqftBKzSANAuIjhg6C+X49ECvBon40MWNIrC6v4="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/video1.mp4"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/video1.mp4",
+      "AssetFile": "Images/Diary/2024/12/4/video1.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14550771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iK1+xqftBKzSANAuIjhg6C+X49ECvBon40MWNIrC6v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 02:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iK1+xqftBKzSANAuIjhg6C+X49ECvBon40MWNIrC6v4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/video2.2ie45gdb4q.mp4",
+      "AssetFile": "Images/Diary/2024/12/4/video2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luj1PLtDzEH3MV811DQ8hIOHP2E6G9NRYZdbY263Oqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 02:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ie45gdb4q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-luj1PLtDzEH3MV811DQ8hIOHP2E6G9NRYZdbY263Oqw="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/video2.mp4"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/video2.mp4",
+      "AssetFile": "Images/Diary/2024/12/4/video2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luj1PLtDzEH3MV811DQ8hIOHP2E6G9NRYZdbY263Oqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 02:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-luj1PLtDzEH3MV811DQ8hIOHP2E6G9NRYZdbY263Oqw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/video3.fgrecevxu3.mp4",
+      "AssetFile": "Images/Diary/2024/12/4/video3.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4012102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gcmJC3APsi/4ej4JIczHLHumnS1x8r6UrvbnklvMzhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 02:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fgrecevxu3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gcmJC3APsi/4ej4JIczHLHumnS1x8r6UrvbnklvMzhA="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Diary/2024/12/4/video3.mp4"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Diary/2024/12/4/video3.mp4",
+      "AssetFile": "Images/Diary/2024/12/4/video3.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4012102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gcmJC3APsi/4ej4JIczHLHumnS1x8r6UrvbnklvMzhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 02:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gcmJC3APsi/4ej4JIczHLHumnS1x8r6UrvbnklvMzhA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/1.9jgx96d1b5.png",
+      "AssetFile": "Images/Game/地牢迷途/1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1475999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9WKvWAGTcntQ9AgwZ1Py/CxjXQpO/ymvCZEOcmjNNCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9jgx96d1b5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9WKvWAGTcntQ9AgwZ1Py/CxjXQpO/ymvCZEOcmjNNCM="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/地牢迷途/1.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/1.png",
+      "AssetFile": "Images/Game/地牢迷途/1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1475999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9WKvWAGTcntQ9AgwZ1Py/CxjXQpO/ymvCZEOcmjNNCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9WKvWAGTcntQ9AgwZ1Py/CxjXQpO/ymvCZEOcmjNNCM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/2.jz8v0f0fuy.png",
+      "AssetFile": "Images/Game/地牢迷途/2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1094704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5vRK9k0JRkBVXwXgoAoQp4HuMTTENRFpSfKSnLgmVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jz8v0f0fuy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P5vRK9k0JRkBVXwXgoAoQp4HuMTTENRFpSfKSnLgmVo="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/地牢迷途/2.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/2.png",
+      "AssetFile": "Images/Game/地牢迷途/2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1094704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5vRK9k0JRkBVXwXgoAoQp4HuMTTENRFpSfKSnLgmVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P5vRK9k0JRkBVXwXgoAoQp4HuMTTENRFpSfKSnLgmVo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/3.kmhniw6quj.png",
+      "AssetFile": "Images/Game/地牢迷途/3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1304561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJUWgmL9pseg/VIKwXaadmRBg7+O/vpyeFqmeAhvyVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmhniw6quj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJUWgmL9pseg/VIKwXaadmRBg7+O/vpyeFqmeAhvyVs="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/地牢迷途/3.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/3.png",
+      "AssetFile": "Images/Game/地牢迷途/3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1304561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJUWgmL9pseg/VIKwXaadmRBg7+O/vpyeFqmeAhvyVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJUWgmL9pseg/VIKwXaadmRBg7+O/vpyeFqmeAhvyVs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/4.5d4r9757k2.mp4",
+      "AssetFile": "Images/Game/地牢迷途/4.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7544038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J3zgtz6PSNjQbATzE70UVXPc/qSjbySsPiN0RjbLPSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5d4r9757k2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J3zgtz6PSNjQbATzE70UVXPc/qSjbySsPiN0RjbLPSo="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/地牢迷途/4.mp4"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/地牢迷途/4.mp4",
+      "AssetFile": "Images/Game/地牢迷途/4.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7544038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J3zgtz6PSNjQbATzE70UVXPc/qSjbySsPiN0RjbLPSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J3zgtz6PSNjQbATzE70UVXPc/qSjbySsPiN0RjbLPSo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/1.dfg217wjc8.png",
+      "AssetFile": "Images/Game/抓大鹅/1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V2OtgUD48MrkFQ8eIMzCiSYfi3t4HzmNL+kt6R6mYtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfg217wjc8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V2OtgUD48MrkFQ8eIMzCiSYfi3t4HzmNL+kt6R6mYtk="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/抓大鹅/1.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/1.png",
+      "AssetFile": "Images/Game/抓大鹅/1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V2OtgUD48MrkFQ8eIMzCiSYfi3t4HzmNL+kt6R6mYtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V2OtgUD48MrkFQ8eIMzCiSYfi3t4HzmNL+kt6R6mYtk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/2.png",
+      "AssetFile": "Images/Game/抓大鹅/2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"he22/8ohErmZmXpnKSQ/wglqxauoNWJHfsgyKkUOc5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-he22/8ohErmZmXpnKSQ/wglqxauoNWJHfsgyKkUOc5o="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/2.vvkza195qn.png",
+      "AssetFile": "Images/Game/抓大鹅/2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"he22/8ohErmZmXpnKSQ/wglqxauoNWJHfsgyKkUOc5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vvkza195qn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-he22/8ohErmZmXpnKSQ/wglqxauoNWJHfsgyKkUOc5o="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/抓大鹅/2.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/3.k0qtv9kqo7.png",
+      "AssetFile": "Images/Game/抓大鹅/3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9CvTlAoCcrQKR+1zcaJNQibY1DMn4JjgQmhxLq6jthM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0qtv9kqo7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9CvTlAoCcrQKR+1zcaJNQibY1DMn4JjgQmhxLq6jthM="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/抓大鹅/3.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/3.png",
+      "AssetFile": "Images/Game/抓大鹅/3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9CvTlAoCcrQKR+1zcaJNQibY1DMn4JjgQmhxLq6jthM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9CvTlAoCcrQKR+1zcaJNQibY1DMn4JjgQmhxLq6jthM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/4.png",
+      "AssetFile": "Images/Game/抓大鹅/4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gp3+WyYYVM3k+FSRVzs2R+B7XNGb8LedfO/BPw2D4g0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gp3+WyYYVM3k+FSRVzs2R+B7XNGb8LedfO/BPw2D4g0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Game/抓大鹅/4.qpqdasavl6.png",
+      "AssetFile": "Images/Game/抓大鹅/4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gp3+WyYYVM3k+FSRVzs2R+B7XNGb8LedfO/BPw2D4g0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qpqdasavl6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gp3+WyYYVM3k+FSRVzs2R+B7XNGb8LedfO/BPw2D4g0="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Game/抓大鹅/4.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home/HomeVideo.mp4",
+      "AssetFile": "Images/Home/HomeVideo.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25612202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fw5ZfUJntJRqqnqj597Limx+nfRkybK5lROK5rxpeJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fw5ZfUJntJRqqnqj597Limx+nfRkybK5lROK5rxpeJM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home/HomeVideo.nkj4m78072.mp4",
+      "AssetFile": "Images/Home/HomeVideo.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25612202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fw5ZfUJntJRqqnqj597Limx+nfRkybK5lROK5rxpeJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nkj4m78072"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fw5ZfUJntJRqqnqj597Limx+nfRkybK5lROK5rxpeJM="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Home/HomeVideo.mp4"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home/teLogo.ig1mx68a3j.png",
+      "AssetFile": "Images/Home/teLogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HrasqEHwSd7lUkmTXjpqc5HPQnbT9xTEh49p6GJJ1ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ig1mx68a3j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HrasqEHwSd7lUkmTXjpqc5HPQnbT9xTEh49p6GJJ1ng="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Home/teLogo.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home/teLogo.png",
+      "AssetFile": "Images/Home/teLogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HrasqEHwSd7lUkmTXjpqc5HPQnbT9xTEh49p6GJJ1ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HrasqEHwSd7lUkmTXjpqc5HPQnbT9xTEh49p6GJJ1ng="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home/落叶.dgkpq44vux.jpg",
+      "AssetFile": "Images/Home/落叶.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "727437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zR1v5rsNvuB1lXIi01HsgUbB9QeaxSPWFFSEvp816Ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgkpq44vux"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zR1v5rsNvuB1lXIi01HsgUbB9QeaxSPWFFSEvp816Ck="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Home/落叶.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home/落叶.jpg",
+      "AssetFile": "Images/Home/落叶.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "727437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zR1v5rsNvuB1lXIi01HsgUbB9QeaxSPWFFSEvp816Ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zR1v5rsNvuB1lXIi01HsgUbB9QeaxSPWFFSEvp816Ck="
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/Ouse.0g5hg586ra.jpg",
+      "AssetFile": "Images/人员/Ouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIYzHXdXX+SesNLFoGQ0fOUH0Md/0Rvg49xTIPvndiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0g5hg586ra"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIYzHXdXX+SesNLFoGQ0fOUH0Md/0Rvg49xTIPvndiA="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/人员/Ouse.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/Ouse.jpg",
+      "AssetFile": "Images/人员/Ouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIYzHXdXX+SesNLFoGQ0fOUH0Md/0Rvg49xTIPvndiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIYzHXdXX+SesNLFoGQ0fOUH0Md/0Rvg49xTIPvndiA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/bibibi.jpg",
+      "AssetFile": "Images/人员/bibibi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MMTXef9cwfQ5D0A4tEffiiMmpX0OUj4KyiPEk5GQSVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MMTXef9cwfQ5D0A4tEffiiMmpX0OUj4KyiPEk5GQSVM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/bibibi.kr1xlio0hz.jpg",
+      "AssetFile": "Images/人员/bibibi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MMTXef9cwfQ5D0A4tEffiiMmpX0OUj4KyiPEk5GQSVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kr1xlio0hz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MMTXef9cwfQ5D0A4tEffiiMmpX0OUj4KyiPEk5GQSVM="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/人员/bibibi.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/grsgr.jpg",
+      "AssetFile": "Images/人员/grsgr.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D6kNxfSpcuEuaKfzMzLHU1cQ+wx/dbDoRJCOMPQyRD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D6kNxfSpcuEuaKfzMzLHU1cQ+wx/dbDoRJCOMPQyRD8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/grsgr.jzhgenu2e6.jpg",
+      "AssetFile": "Images/人员/grsgr.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D6kNxfSpcuEuaKfzMzLHU1cQ+wx/dbDoRJCOMPQyRD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jzhgenu2e6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D6kNxfSpcuEuaKfzMzLHU1cQ+wx/dbDoRJCOMPQyRD8="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/人员/grsgr.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/touken.58mghs0d3v.jpg",
+      "AssetFile": "Images/人员/touken.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbXBLZbfzQ4xmdNwE4MhWxBVPzikf7xtumjqrMeYLXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58mghs0d3v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbXBLZbfzQ4xmdNwE4MhWxBVPzikf7xtumjqrMeYLXc="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/人员/touken.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/touken.jpg",
+      "AssetFile": "Images/人员/touken.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbXBLZbfzQ4xmdNwE4MhWxBVPzikf7xtumjqrMeYLXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbXBLZbfzQ4xmdNwE4MhWxBVPzikf7xtumjqrMeYLXc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/w.jpg",
+      "AssetFile": "Images/人员/w.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EugW02A1uw8Dvfquja1a4KzCFr+f4jcQCZ0ODjSWZVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EugW02A1uw8Dvfquja1a4KzCFr+f4jcQCZ0ODjSWZVo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/w.u1lua6g0k7.jpg",
+      "AssetFile": "Images/人员/w.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EugW02A1uw8Dvfquja1a4KzCFr+f4jcQCZ0ODjSWZVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1lua6g0k7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EugW02A1uw8Dvfquja1a4KzCFr+f4jcQCZ0ODjSWZVo="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/人员/w.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/yuZe.jpg",
+      "AssetFile": "Images/人员/yuZe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pebe0zlccByaGSttHLK/aEFD3FDsZJU3x7bAfxhZ8Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pebe0zlccByaGSttHLK/aEFD3FDsZJU3x7bAfxhZ8Yw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/人员/yuZe.ze40vllba9.jpg",
+      "AssetFile": "Images/人员/yuZe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pebe0zlccByaGSttHLK/aEFD3FDsZJU3x7bAfxhZ8Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ze40vllba9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pebe0zlccByaGSttHLK/aEFD3FDsZJU3x7bAfxhZ8Yw="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/人员/yuZe.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "JS/test.5hamkrlhd4.js",
+      "AssetFile": "JS/test.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d7EUAk1nz/L8fXjZnqSg3/BWcxSOpw8Joq6daGVh3Kg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 14:27:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hamkrlhd4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d7EUAk1nz/L8fXjZnqSg3/BWcxSOpw8Joq6daGVh3Kg="
+        },
+        {
+          "Name": "label",
+          "Value": "JS/test.js"
+        }
+      ]
+    },
+    {
+      "Route": "JS/test.js",
+      "AssetFile": "JS/test.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d7EUAk1nz/L8fXjZnqSg3/BWcxSOpw8Joq6daGVh3Kg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 14:27:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d7EUAk1nz/L8fXjZnqSg3/BWcxSOpw8Joq6daGVh3Kg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "_content/MudBlazor/MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2gItJ0j/o5RSWg7VYqCOBpSPI1dxTOG+mnEzWt7EvYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Oct 2024 20:30:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2gItJ0j/o5RSWg7VYqCOBpSPI1dxTOG+mnEzWt7EvYw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "_content/MudBlazor/MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lz0Xidl9yw53lEeYs4XMU39zSRQzpCIyWOQSAG0/0GU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Oct 2024 20:30:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lz0Xidl9yw53lEeYs4XMU39zSRQzpCIyWOQSAG0/0GU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico",
+      "AssetFile": "favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/LICENSE",
+      "AssetFile": "live2d-widget/LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/LICENSE.1rpetu5fez",
+      "AssetFile": "live2d-widget/LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1rpetu5fez"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/LICENSE"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.en.ltnrq99hxh.md",
+      "AssetFile": "live2d-widget/README.en.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ltnrq99hxh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/README.en.md"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.en.md",
+      "AssetFile": "live2d-widget/README.en.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p2BzFv5JgFXGqdTlTtNGbvK/UCgglS4nDm6CMh2IN9U="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.md",
+      "AssetFile": "live2d-widget/README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/README.rsd281ofma.md",
+      "AssetFile": "live2d-widget/README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rsd281ofma"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W54WjjKDXFJa+1wRwclBV0N/tN/f7rV/B897jVHdV6o="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/README.md"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-1.4dj74agzh9.png",
+      "AssetFile": "live2d-widget/assets/screenshot-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dj74agzh9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/assets/screenshot-1.png"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-1.png",
+      "AssetFile": "live2d-widget/assets/screenshot-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAlPfyRAY9RgLs0x/ftegUDHceC9rf2y6h90U5SVJ4U="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-2.3b6zte9t0p.png",
+      "AssetFile": "live2d-widget/assets/screenshot-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3b6zte9t0p"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/assets/screenshot-2.png"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-2.png",
+      "AssetFile": "live2d-widget/assets/screenshot-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rw8eee0McuxrrIq6QJfYWInKwwlk46zC0JZ+Pazz5cY="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-3.bfe33c91z6.png",
+      "AssetFile": "live2d-widget/assets/screenshot-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfe33c91z6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/assets/screenshot-3.png"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/assets/screenshot-3.png",
+      "AssetFile": "live2d-widget/assets/screenshot-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x87v5QgwbokjJfigHZhIREnMYz7rZyhb7mVKZPBVG6c="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/autoload.902i6zh734.js",
+      "AssetFile": "live2d-widget/autoload.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 04:16:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "902i6zh734"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/autoload.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/autoload.js",
+      "AssetFile": "live2d-widget/autoload.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 04:16:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdwRNdAY4Rs1+QwB4/l7/UIXbTmHWOWKSP3srX/HplE="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/demo.d4uvnmwjr6.html",
+      "AssetFile": "live2d-widget/demo/demo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4uvnmwjr6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/demo/demo.html"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/demo.html",
+      "AssetFile": "live2d-widget/demo/demo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PfkhugQUnKwdaab8ZfJPgnXxCDlnLYuP0LozQSA2GRU="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/login.cs0pp1wow6.html",
+      "AssetFile": "live2d-widget/demo/login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cs0pp1wow6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/demo/login.html"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/demo/login.html",
+      "AssetFile": "live2d-widget/demo/login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNICkvyfPSvtyqhYGHnTIzDooIzFc/lro2mWZNvasm8="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/live2d.min.js",
+      "AssetFile": "live2d-widget/live2d.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/live2d.min.q7jjki4ypd.js",
+      "AssetFile": "live2d-widget/live2d.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q7jjki4ypd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BsRrInB4k84NUenZOc3Y7EUAhU8BoC2wxaogaZhb9zU="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/live2d.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/package.2p616zk79b.json",
+      "AssetFile": "live2d-widget/package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2p616zk79b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/package.json"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/package.json",
+      "AssetFile": "live2d-widget/package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jgr1UkQdp2ZQMHExaLvAIggnk3YPOHmGXjhES000bls="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/rollup.config.31cucm39n4.js",
+      "AssetFile": "live2d-widget/rollup.config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31cucm39n4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/rollup.config.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/rollup.config.js",
+      "AssetFile": "live2d-widget/rollup.config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVMIRX3O+LajbDqwzEBJs6Oi1Y0Hour8Tt1SqsOD4vQ="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/index.js",
+      "AssetFile": "live2d-widget/src/index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/index.vxem1x4x0w.js",
+      "AssetFile": "live2d-widget/src/index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxem1x4x0w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzrLqnVYiWMDdOBPOPcYYMaGfvYEXHAwVR59POQOddk="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/index.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/message.1a7b0t698t.js",
+      "AssetFile": "live2d-widget/src/message.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1a7b0t698t"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/message.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/message.js",
+      "AssetFile": "live2d-widget/src/message.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mS1TemdeYWMDdADfUTW1j66W8toh6IXVsIWKTWhTJGw="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/model.hmo6cxvwoh.js",
+      "AssetFile": "live2d-widget/src/model.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmo6cxvwoh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/model.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/model.js",
+      "AssetFile": "live2d-widget/src/model.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWK+Q4SzerkX3SUCK8rjIW07QFnh4ytgrBNDlc/VlUg="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/tools.js",
+      "AssetFile": "live2d-widget/src/tools.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/tools.o6nupihjt6.js",
+      "AssetFile": "live2d-widget/src/tools.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6nupihjt6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OHZ/OqA/XAvcetakAIRpT8gs09N+bAP/1tS4kGhZss="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/tools.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/utils.js",
+      "AssetFile": "live2d-widget/src/utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/utils.ytmg6wtthu.js",
+      "AssetFile": "live2d-widget/src/utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ytmg6wtthu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-atKqoy5ZK6eqQ03XoMVInaWWv+t6Wllq/6bCpOgEiFM="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/utils.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/waifu-tips.js",
+      "AssetFile": "live2d-widget/src/waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/src/waifu-tips.oiumi21p08.js",
+      "AssetFile": "live2d-widget/src/waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oiumi21p08"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANLpkwUQaaaF6xY0GROkJktvSMAxQ6DeR35VS2mK/Zg="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/src/waifu-tips.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.6l2u7y1jfo.js",
+      "AssetFile": "live2d-widget/waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l2u7y1jfo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/waifu-tips.js"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.jg0ys753f4.json",
+      "AssetFile": "live2d-widget/waifu-tips.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jg0ys753f4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/waifu-tips.json"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.js",
+      "AssetFile": "live2d-widget/waifu-tips.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zpigs8cMIADUcdn2SHfpQMyiO5lJLpCfmJ18XcUhjtk="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu-tips.json",
+      "AssetFile": "live2d-widget/waifu-tips.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LaGquIl910ehs5PMMPR0bfQWPAAYOqlzvyyXIzaEERI="
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu.aqqr4jindh.css",
+      "AssetFile": "live2d-widget/waifu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aqqr4jindh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM="
+        },
+        {
+          "Name": "label",
+          "Value": "live2d-widget/waifu.css"
+        }
+      ]
+    },
+    {
+      "Route": "live2d-widget/waifu.css",
+      "AssetFile": "live2d-widget/waifu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 02:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7q+zetlxrdewQi/hoaKkiK6wSZGUP6iRz6jDk8qZWqM="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.data.8epf2kmlyj.unityweb",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.data.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15779014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UOCHTTSslqIDDGEdPtbHqSNVluZqEwWu3pt+Ewc3Pgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8epf2kmlyj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UOCHTTSslqIDDGEdPtbHqSNVluZqEwWu3pt+Ewc3Pgg="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/Build/数字华容道Web.data.unityweb"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.data.unityweb",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.data.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15779014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UOCHTTSslqIDDGEdPtbHqSNVluZqEwWu3pt+Ewc3Pgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UOCHTTSslqIDDGEdPtbHqSNVluZqEwWu3pt+Ewc3Pgg="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.framework.js.cynjqzjwod.unityweb",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.framework.js.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPZu67fzeAdDX0Ci0cTFEfeLUUCyac0dTEecg7qEhUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cynjqzjwod"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPZu67fzeAdDX0Ci0cTFEfeLUUCyac0dTEecg7qEhUU="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/Build/数字华容道Web.framework.js.unityweb"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.framework.js.unityweb",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.framework.js.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPZu67fzeAdDX0Ci0cTFEfeLUUCyac0dTEecg7qEhUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPZu67fzeAdDX0Ci0cTFEfeLUUCyac0dTEecg7qEhUU="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.loader.0frkjmd3oc.js",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.loader.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0frkjmd3oc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/Build/数字华容道Web.loader.js"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.loader.js",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.loader.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.wasm.c35jn6j4w9.unityweb",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.wasm.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6549876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iB8myqvM/XpY9qLvyEY5d7l9Bs16R5uVWSClza85XO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c35jn6j4w9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iB8myqvM/XpY9qLvyEY5d7l9Bs16R5uVWSClza85XO8="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/Build/数字华容道Web.wasm.unityweb"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/Build/数字华容道Web.wasm.unityweb",
+      "AssetFile": "在线游玩/数字华容道Web/Build/数字华容道Web.wasm.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6549876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iB8myqvM/XpY9qLvyEY5d7l9Bs16R5uVWSClza85XO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iB8myqvM/XpY9qLvyEY5d7l9Bs16R5uVWSClza85XO8="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/MemoryProfiler.cwkpu9lju0.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/MemoryProfiler.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwkpu9lju0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/MemoryProfiler.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/MemoryProfiler.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/MemoryProfiler.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/favicon.ico",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/favicon.sae86n3l19.ico",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sae86n3l19"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/fullscreen-button.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/fullscreen-button.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/fullscreen-button.txeyaihvf9.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/fullscreen-button.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txeyaihvf9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/fullscreen-button.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-dark.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-dark.v3vtwzqy8k.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v3vtwzqy8k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-dark.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-light.46pyui3ahx.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46pyui3ahx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-light.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-light.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-empty-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-dark.l662eo4wm6.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l662eo4wm6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-dark.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-dark.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-light.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-light.uofegs066q.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uofegs066q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/progress-bar-full-light.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/style.css",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/style.stm8mke8cy.css",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "stm8mke8cy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/style.css"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/unity-logo-dark.ny2hf4mbry.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/unity-logo-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ny2hf4mbry"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/unity-logo-dark.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/unity-logo-dark.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/unity-logo-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/unity-logo-light.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/unity-logo-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/unity-logo-light.stdwjeb6mn.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/unity-logo-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "stdwjeb6mn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/unity-logo-light.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/webgl-logo.52clr6zj54.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/webgl-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52clr6zj54"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/webgl-logo.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/webgl-logo.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/webgl-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/webmemd-icon.l424coiqtw.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/webmemd-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l424coiqtw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/TemplateData/webmemd-icon.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/TemplateData/webmemd-icon.png",
+      "AssetFile": "在线游玩/数字华容道Web/TemplateData/webmemd-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/index.0zo7fbjxqq.html",
+      "AssetFile": "在线游玩/数字华容道Web/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LGVhhFYf8WVMPLHb3FnIT7uXIBWYx6+jEaNitCikmDE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zo7fbjxqq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LGVhhFYf8WVMPLHb3FnIT7uXIBWYx6+jEaNitCikmDE="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/数字华容道Web/index.html"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/数字华容道Web/index.html",
+      "AssetFile": "在线游玩/数字华容道Web/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LGVhhFYf8WVMPLHb3FnIT7uXIBWYx6+jEaNitCikmDE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LGVhhFYf8WVMPLHb3FnIT7uXIBWYx6+jEaNitCikmDE="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.data.g2gvcotfaz.unityweb",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.data.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17488197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GN855XzgipZNBolAHuSll0OZ57F5Bo8/M3zJo0un4Ic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2gvcotfaz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GN855XzgipZNBolAHuSll0OZ57F5Bo8/M3zJo0un4Ic="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/Build/消灭星星Web.data.unityweb"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.data.unityweb",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.data.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17488197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GN855XzgipZNBolAHuSll0OZ57F5Bo8/M3zJo0un4Ic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GN855XzgipZNBolAHuSll0OZ57F5Bo8/M3zJo0un4Ic="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.framework.js.culvlbci57.unityweb",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.framework.js.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAFc8wWVxW8G8Lw16189LMUIg80mZIMgJ3JM/VD0cWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "culvlbci57"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VAFc8wWVxW8G8Lw16189LMUIg80mZIMgJ3JM/VD0cWo="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/Build/消灭星星Web.framework.js.unityweb"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.framework.js.unityweb",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.framework.js.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAFc8wWVxW8G8Lw16189LMUIg80mZIMgJ3JM/VD0cWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VAFc8wWVxW8G8Lw16189LMUIg80mZIMgJ3JM/VD0cWo="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.loader.0frkjmd3oc.js",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.loader.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0frkjmd3oc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/Build/消灭星星Web.loader.js"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.loader.js",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.loader.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGL265XD1nI2aVN4BLQBB4dSjsWYasmpLPFd/K+mM7I="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.wasm.jbo55w3lf2.unityweb",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.wasm.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6553963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xx+oMriSSDAg5xNHYu/DHFkktOSswR2J5NOvaFVpA4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbo55w3lf2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xx+oMriSSDAg5xNHYu/DHFkktOSswR2J5NOvaFVpA4g="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/Build/消灭星星Web.wasm.unityweb"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/Build/消灭星星Web.wasm.unityweb",
+      "AssetFile": "在线游玩/消灭星星Web/Build/消灭星星Web.wasm.unityweb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6553963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xx+oMriSSDAg5xNHYu/DHFkktOSswR2J5NOvaFVpA4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xx+oMriSSDAg5xNHYu/DHFkktOSswR2J5NOvaFVpA4g="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/MemoryProfiler.cwkpu9lju0.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/MemoryProfiler.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwkpu9lju0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/MemoryProfiler.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/MemoryProfiler.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/MemoryProfiler.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOh74g0MJKtstztX3iAE2iYcwqZB5pMZxq4/4R/IVIM="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/favicon.ico",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/favicon.sae86n3l19.ico",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sae86n3l19"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBO+uQ7o9wWA1Soh1SM5cNHInnHko0pGLCJhCUHDx38="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/fullscreen-button.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/fullscreen-button.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/fullscreen-button.txeyaihvf9.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/fullscreen-button.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txeyaihvf9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISIVgWc6VLgTnUCNSj+NK4eehoJ9S2/FO5lf96me4+k="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/fullscreen-button.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-dark.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-dark.v3vtwzqy8k.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v3vtwzqy8k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+5xMa/oozZZBiQNiRhNyGI0wRlGfzkLxLxoAjKP200="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-dark.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-light.46pyui3ahx.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46pyui3ahx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-light.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-light.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-empty-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FDaWwGCtQ9bDDxn/X0kACSehOaKh5Mn0X6+qK5DX0r4="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-dark.l662eo4wm6.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l662eo4wm6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-dark.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-dark.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwamJE3LOSb8o4oo487Vid+P8b7tlV6xfAu/AckYvGI="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-light.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-light.uofegs066q.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uofegs066q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ejlep4VIDFzfEvrebmy/SWZtW7HO9yQMET28umvcXIc="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/progress-bar-full-light.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/style.css",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/style.stm8mke8cy.css",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "stm8mke8cy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cFSYbAnhuULcA0BgCuOX7sJP+RmC+1jKMrZNXxklyYY="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/style.css"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/unity-logo-dark.ny2hf4mbry.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/unity-logo-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ny2hf4mbry"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/unity-logo-dark.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/unity-logo-dark.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/unity-logo-dark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbctJsCWSH2ryUi1S8ID+NrH7U4/VzORh5joWKy0sVk="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/unity-logo-light.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/unity-logo-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/unity-logo-light.stdwjeb6mn.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/unity-logo-light.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "stdwjeb6mn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ACmQrqDZRoM8rcFRnVt+UKRXC9U3oFF915pZ0+7ITac="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/unity-logo-light.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/webgl-logo.52clr6zj54.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/webgl-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52clr6zj54"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/webgl-logo.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/webgl-logo.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/webgl-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sww68qRTjG7fXyQRlTdgZB36JX8qTMW4jWcaokOx8S8="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/webmemd-icon.l424coiqtw.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/webmemd-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l424coiqtw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/TemplateData/webmemd-icon.png"
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/TemplateData/webmemd-icon.png",
+      "AssetFile": "在线游玩/消灭星星Web/TemplateData/webmemd-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xW9UlGQM7donOq041Y5qudpiXVs/TYdcD/ksYZKlacI="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/index.html",
+      "AssetFile": "在线游玩/消灭星星Web/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mvvpTlxubpK0mSSFQrFg8GTOcs+2DdaARKlbWGru4lk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mvvpTlxubpK0mSSFQrFg8GTOcs+2DdaARKlbWGru4lk="
+        }
+      ]
+    },
+    {
+      "Route": "在线游玩/消灭星星Web/index.itsuvuidyn.html",
+      "AssetFile": "在线游玩/消灭星星Web/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mvvpTlxubpK0mSSFQrFg8GTOcs+2DdaARKlbWGru4lk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 16:15:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "itsuvuidyn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mvvpTlxubpK0mSSFQrFg8GTOcs+2DdaARKlbWGru4lk="
+        },
+        {
+          "Name": "label",
+          "Value": "在线游玩/消灭星星Web/index.html"
+        }
+      ]
+    }
+  ]
+}
